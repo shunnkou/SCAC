@@ -13,7 +13,7 @@ Combining biomedical and social approaches to health aids in our understanding o
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); <mark style="background: #FFF3A3A6;">[Slide 3: Bioecological Model](http://stemcellcurriculum.org/slidesets.html)</mark>).
 
 <figure markdown>
-  ![[slide 3@2x.png|slide 3@2x.png]]{ width='25' }
+  ![[slide 3@2x.png|slide 3@2x.png]]{ width="50" }{ align="right" }
   <figcaption>Bioecological Model</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 
 <figure markdown>
-  ![[slide 4@2x.png|slide 4@2x.png]]{ align='right' }{ width='30' }
+  ![[slide 4@2x.png|slide 4@2x.png]]{ width="60" }{ align="right" }
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
 
@@ -37,15 +37,20 @@ Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4
 
 Additionally, living organisms have evolved to react to stress by reprogramming their DNA and changing their gene expression. Stressors can take the form of dehydration, malnutrition, or infection. Stress can also be the by-product of social interactions that make a person feel threatened, such as situations involving discrimination ([Radley et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641164/); [Cossins, 2015](https://www.the-scientist.com/features/stress-fractures-36158); [Seppa, 2015](https://www.sciencenews.org/article/chronic-stress-can-wreak-havoc-body)).
 
-Slide Show. Chaddha, R. July 7, 2007. A Tale of Two Mice. NOVA PBS Slide Show. [Link](http://www.pbs.org/wgbh/nova/body/epigenetic-mice.html)
+<iframe src="http://www.pbs.org/wgbh/nova/body/epigenetic-mice.html"></iframe>
+
+Slide Show. Chaddha, R. July 7, 2007. A Tale of Two Mice. NOVA PBS Slide Show. [Link](http://www.pbs.org/wgbh/nova/body/epigenetic-mice.html) <mark style="background: #FF5582A6;">**Don't see the actual audio slideshow**</mark>
 
 Though epigenetics has regained popularity in the scientific community, the concept has been intimately tied to the study of cancer for some time. Early studies in the 1950s sought to determine whether our genetic material or environment was responsible for the onset of cancer. Researchers quickly realized that this was not an “either/or” proposition and that gene-environment interactions are responsible for 90% of cancers. These same interactions prove important for understanding tissue regeneration in the context of injury and aging. There are also cases of individuals who have managed to halt some aging processes all together. The bodies, genes, and physiology of these individuals present researchers with an opportunity to identify genetic variations that might contribute to this unusual state, as well as illuminate which molecular processes are involved with regeneration and cancer.
 
-Video: Maclean’s. Mackenzee Wittke:The Girl Who Never Ages. [Link](http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/) ([Slide 9: Aging and Immortality](http://stemcellcurriculum.org/slidesets.html))
+<iframe src="http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/"</iframe><figcaption>Maclean’s. Mackenzee Wittke:The Girl Who Never Ages. [Link](http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/) ([Slide 9: Aging and Immortality](http://stemcellcurriculum.org/slidesets.html))</figcaption>
 
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
-[Timeline10: Biomedical Research](http://www.stemcellcurriculum.org/timelines.html)
+<figure markdown>
+  [![[slide 3@2x.png|slide 3@2x.png]]](<![[Timeline 10_Biomedical research.png|Timeline 10_Biomedical research.png]]>){ width="50" }{ align="right" }
+  <figcaption>[Timeline10: Biomedical Research](http://www.stemcellcurriculum.org/timelines.html)</figcaption>
+</figure>
 
 This shift refocused society’s attention from external threats associated with wartime propaganda to threats located in our own bodies and genes. In the United States (US), the response was the publication of “Science The Endless Frontier” in 1945. The report, authored by Vannevar Bush, Director of the Office of Scientific Research and Development, equated scientific progress with social and economic development and proposed a national investment in biomedical research ([NSF,1945](http://www.nsf.gov/about/history/nsf50/vbush1945.jsp); [Crow, 2005](https://cspo.org/legacy/library/090729F3GD_lib_BushconferenceHi.pdf); [Cozzens, 2005](https://cspo.org/legacy/library/090729F3GD_lib_BushconferenceHi.pdf); [Pielke, 2010](http://sciencepolicy.colorado.edu/admin/publication_files/2010.24.pdf)).
 
