@@ -1,6 +1,7 @@
-site_name: your_site_name # Change this to your site name
+site_name: Stem Cells Across The Curriculum
+ # Change this to your site name
 site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://shunnkou.github.io/SCAC/ # Change this to your site URL
 
 theme:
     name: 'material'
@@ -8,7 +9,7 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Ubuntu
+        text: sans serif
         code: Ubuntu Mono
     language: en
     palette:
@@ -16,31 +17,37 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: cyan
+      accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: cyan
       accent: indigo
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
     features:
-        - navigation.indexes
+        - navigation.instant
+        - navigation.tracking
+        #- navigation.indexes
         - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.expand
+        #- navigation.tabs
+        #- navigation.tabs.sticky
+        #- navigation.expand
+        - navigation.footer
         - search.suggest
         - search.highlight
+        - toc.follow
+        - toc.integrate # adds the TOC to the file navigation
         
 # Extensions
 markdown_extensions:
+  - md_in_html
   - footnotes
   - nl2br
   - attr_list
@@ -67,6 +74,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
   - admonition
   - toc:
       permalink: true
@@ -83,7 +92,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: fr
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -110,14 +119,14 @@ plugins:
 hooks:
   - overrides/hooks/on_page_markdown.py
   - overrides/hooks/on_env.py
-  - overrides/hooks/on_files.py
 extra_javascript:
-  - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
+  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets/dist/javascript.js
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
-    - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/styles.css
+    - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets/dist/styles.css
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
@@ -135,3 +144,24 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+
+# Page Tree
+#nav:
+#    - Table of Contents:
+#      - index.md
+#      - Chapter 1:
+#        - Section 1: Table of Contents/Chapter 1/1_Section 1.md
+#        - Section 2: Table of Contents/Chapter 1/1_Section 2.md
+#        - Section 3: Table of Contents/Chapter 1/1_Section 3.md
+#        - Section 4: Table of Contents/Chapter 1/1_Section 4.md
+#        - Section 5: Table of Contents/Chapter 1/1_Section 5.md
+#      - Chapter 2:
+#        - Section 1: Table of Contents/Chapter 2/2_Section 1.md
+#        - Section 2: Table of Contents/Chapter 2/2_Section 2.md
+#        - Section 3: Table of Contents/Chapter 2/2_Section 3.md
+#      - Chapter 3: 
+#        - Section 1: Table of Contents/Chapter 3/3_Section 1.md
+#        - Section 2: Table of Contents/Chapter 3/3_Section 2.md
+#        - Section 3: Table of Contents/Chapter 3/3_Section 3.md
+#    - Tags: tags.md
+#    - Credits: credits.md
