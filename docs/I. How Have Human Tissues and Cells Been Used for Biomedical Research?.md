@@ -12,11 +12,17 @@ Combining biomedical and social approaches to health aids in our understanding o
 
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); <mark style="background: #FFF3A3A6;">Slide 3: Bioecological Model</mark>).
 
-![[slide 3@2x.png|slide 3@2x.png]]{ align = 'left', width = '30' }
+
+![[slide 3@2x.png|slide 3@2x.png]]{ align = 'left' } { width = '30' }
 
 Epigenetics also investigates local micro- environmental effects on cells, tissues, and organs, to determine which environmental signals are responsible for influencing cells to divide, differentiate, move, or die ([Powell, 2005](http://www.nature.com/nature/journal/v435/n7040/full/435268a.html)) (<mark style="background: #FFF3A3A6;">Slide 4: Cell Signaling and Cell Fate</mark>).
 
-![[slide 4@2x.png|slide 4@2x.png]]{ align = 'right' } { width = '30' }
+
+<figure markdown>
+  ![[slide 4@2x.png|slide 4@2x.png]]{ align = 'right' }{ width = '30' }
+  <figcaption>Cell Signaling and Cell Fate</figcaption>
+</figure>
+
 
 <mark style="background: #FF5582A6;">Infographic: Kubicek, S. 2011. Infographic: Epigenetics - A Primer. The Scientist. [Link](http://www.the-scientist.com/?articles.view/articleNo/29546/title/Infographic--Epigenetics---A-Primer/) **! (unable to see infographic)**</mark>
 
@@ -31,7 +37,7 @@ Examples of the vital role that environmental factors have in human development 
 
 Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) [Link](http://www.apple.com) <mark style="background: #FF5582A6;">**! Wrong link, unable to find video**</mark>
 
-Additionally, living organisms have evolved to react to stress by reprogramming their DNA and changing their gene expression. Stressors can take the form of dehydration, malnutrition, or infection. Stress can also be the by-product of social interactions that make a person feel threatened, such as situations involving discrimination (Radley et al., 2011; Cossins, 2015; Seppa, 2015).
+Additionally, living organisms have evolved to react to stress by reprogramming their DNA and changing their gene expression. Stressors can take the form of dehydration, malnutrition, or infection. Stress can also be the by-product of social interactions that make a person feel threatened, such as situations involving discrimination ([Radley et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641164/); [Cossins, 2015](https://www.the-scientist.com/features/stress-fractures-36158); [Seppa, 2015](https://www.sciencenews.org/article/chronic-stress-can-wreak-havoc-body)).
 
 
 ___
