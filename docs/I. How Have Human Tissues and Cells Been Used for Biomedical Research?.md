@@ -12,8 +12,10 @@ Combining biomedical and social approaches to health aids in our understanding o
 
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); <mark style="background: #FFF3A3A6;">Slide 3: Bioecological Model</mark>).
 
-
-![[slide 3@2x.png|slide 3@2x.png]]{ align = 'left' }{ width = '30' }
+<figure markdown>
+	![[slide 3@2x.png|slide 3@2x.png]]{ width = '30' }
+	<figcaption>Bioecological Model</figcaption>
+</figure>
 
 Epigenetics also investigates local micro- environmental effects on cells, tissues, and organs, to determine which environmental signals are responsible for influencing cells to divide, differentiate, move, or die ([Powell, 2005](http://www.nature.com/nature/journal/v435/n7040/full/435268a.html)) (<mark style="background: #FFF3A3A6;">Slide 4: Cell Signaling and Cell Fate</mark>).
 
@@ -29,7 +31,9 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 Examples of the vital role that environmental factors have in human development include maternal factors in the womb that influence the developing embryo (Slide 5 & 6: Embryonic Development),  extracellular matrix (ECM) components responsible for wound repair (Slide 7 & 8: ECM and Making Body Parts) metabolic by-products that alter gene expression, and bacteria and viruses that live on, and in, our bodies influencing our physiology ([Fountain, 2012](http://www.nytimes.com/2012/09/17/health/research/human-muscle-regenerated-with-animal-help.html?src=recg)). This natural process of DNA reprogramming is what allows different cells in our body to possess the same genome but behave and act differently, depending on which regions of the genome are programmed to be active.
 
 <iframe src="http://www.stemcellcurriculum.org/infographics.html" style="height:30rem;width:45rem"></iframe>
-    <figcaption>Nuclear reprogramming</figcaption>
+<figure markdown>
+<figcaption>Nuclear reprogramming</figcaption>
+</figure>
 
 Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) [Link](http://www.apple.com) <mark style="background: #FF5582A6;">**! Wrong link, unable to find video**</mark>
 
