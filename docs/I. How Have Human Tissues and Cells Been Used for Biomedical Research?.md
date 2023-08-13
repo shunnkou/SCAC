@@ -30,10 +30,8 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 Examples of the vital role that environmental factors have in human development include maternal factors in the womb that influence the developing embryo (Slide 5 & 6: Embryonic Development),  extracellular matrix (ECM) components responsible for wound repair (Slide 7 & 8: ECM and Making Body Parts) metabolic by-products that alter gene expression, and bacteria and viruses that live on, and in, our bodies influencing our physiology ([Fountain, 2012](http://www.nytimes.com/2012/09/17/health/research/human-muscle-regenerated-with-animal-help.html?src=recg)). This natural process of DNA reprogramming is what allows different cells in our body to possess the same genome but behave and act differently, depending on which regions of the genome are programmed to be active.
 
-<iframe src="http://www.stemcellcurriculum.org/infographics.html" style="height:30rem;width:45rem"></iframe>
-<figure markdown>
-<figcaption>Nuclear reprogramming</figcaption>
-</figure>
+!!! info inline end "Nuclear reprogramming"
+	See [here](http://www.stemcellcurriculum.org/infographics.html) for an infographic on nuclear reprogramming
 
 Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) [Link](http://www.apple.com) <mark style="background: #FF5582A6;">**! Wrong link, unable to find video**</mark>
 
