@@ -18,13 +18,20 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 ![[slide 4@2x.png|slide 4@2x.png]]{ align = 'right' } { width = '30' }
 
-<mark style="background: #FFF3A3A6;">Infographic: Kubicek, S. 2011. Infographic: Epigenetics - A Primer. The Scientist. [Link](http://www.the-scientist.com/?articles.view/articleNo/29546/title/Infographic--Epigenetics---A-Primer/)</mark> **! (unable to see infographic)**
+<mark style="background: #FF5582A6;">Infographic: Kubicek, S. 2011. Infographic: Epigenetics - A Primer. The Scientist. [Link](http://www.the-scientist.com/?articles.view/articleNo/29546/title/Infographic--Epigenetics---A-Primer/) **! (unable to see infographic)**</mark>
 
 Examples of the vital role that environmental factors have in human development include maternal factors in the womb that influence the developing embryo (Slide 5 & 6: Embryonic Development),  extracellular matrix (ECM) components responsible for wound repair (Slide 7 & 8: ECM and Making Body Parts) metabolic by-products that alter gene expression, and bacteria and viruses that live on, and in, our bodies influencing our physiology ([Fountain, 2012](http://www.nytimes.com/2012/09/17/health/research/human-muscle-regenerated-with-animal-help.html?src=recg)). This natural process of DNA reprogramming is what allows different cells in our body to possess the same genome but behave and act differently, depending on which regions of the genome are programmed to be active.
 
-![Nuclear Reprogramming ZoomGraphic](http://www.stemcellcurriculum.org/infographics.html)
 
-Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) Link
+<figure markdown>
+    <iframe src="http://www.stemcellcurriculum.org/infographics.html" style="height:30rem;width:45rem"></iframe>
+    <figcaption>Nuclear reprogramming</figcaption>
+</figure>
+
+
+Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) [Link](http://www.apple.com) <mark style="background: #FF5582A6;">**! Wrong link, unable to find video**</mark>
+
+Additionally, living organisms have evolved to react to stress by reprogramming their DNA and changing their gene expression. Stressors can take the form of dehydration, malnutrition, or infection. Stress can also be the by-product of social interactions that make a person feel threatened, such as situations involving discrimination (Radley et al., 2011; Cossins, 2015; Seppa, 2015).
 
 
 ___
