@@ -6,6 +6,9 @@ title: "Home"
 
 In 1951, cervical cancer cells from Henrietta Lacks, an African-American woman being treated in the “colored” ward of Johns Hopkins Hospital in Baltimore, were the first grown outside the human body in a Petri dish. This is the most widely used cell culture in biomedical research yet, for decades, her family was marginalized by the very health care system that her cells support. Now, many years later, the biomedical research community is revisiting the story of Henrietta Lacks, the establishment of the HeLa cell line, and the role of community in biomedical research studies. What lessons can be learned from this case? Can we challenge the normative assumptions surrounding biomedical research to support more just and informed participation in shaping healthcare practices and policies? What roles can individuals and communities play in directing research that serves their needs?
 
+!!! note inline end
+	*Bracketed references in italics throughout the text refer to the HeLa Primer Powerpoint, and are linked to the SCAC website where that Powerpoint can be downloaded.*
+
 This primer addresses these questions through an historical overview of biomedical research and an exploration of contemporary practices and policies surrounding research with human subjects to advance basic scientific knowledge and biomedicine.
 
 **Section I** reviews the emergence of biomedical research highlighting both the excitement and caution that accompanied this burgeoning field. This section uses two historically important proposals, Science: The Endless Frontier, which advocated for government investment in basic science, and the World Health Organization’s proposed definition of health. Both of these proclamations, made in 1945 and 1946 respectively, were perceived to promote social well-being in a post-WWII era. This section also introduces the biomedical and social models of health and reviews approaches that seek to create inclusive environments that account for variance in physical and cognitive abilities within the human population. A social justice framework is used to analyze health equity through three specific approaches: distributive justice, which seeks to provide universal access to the knowledge and goods produced through research; procedural justice which involves the actions of multiple stakeholders in health policy decision making; and responsive justice which requires research and policy to be informed by community input. A review of books and resources that further this dialogue is also included.
@@ -28,6 +31,5 @@ This primer addresses these questions through an historical overview of biomedic
 
 **Section X** presents cases where altruistic donation of human tissue and DNA are being used in contexts without adequate informed consent and for profit including genomic banks (Havasupai v. Arizona State University), umbilical cord banks, and milk banks.
 
-!!! note inline end
-	*Bracketed references in italics throughout the text refer to the HeLa Primer Powerpoint, and are linked to the SCAC website where that Powerpoint can be downloaded.*
+
 
