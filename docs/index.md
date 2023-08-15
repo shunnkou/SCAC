@@ -2,6 +2,7 @@
 share: true
 strip_comments: true
 fix_heading: true
+title: Frontmatter
 ---
 
 This primer is part of the Stem Cells Across the Curriculum project and is in the Creative Commons (insert logo from our permissions page along with the infographics, slide sets, and figures which are hyperlinked to this document). Please see below for permissions and acknowledgements for usage.
