@@ -30,7 +30,7 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 
 <figure markdown style="float:right;width:20em;">
-  ![[slide 4@2x.png|slide 4@2x.png]]{ width="30"}
+  ![[slide 4@2x.png|slide 4@2x.png]]
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
 
@@ -42,7 +42,11 @@ Examples of the vital role that environmental factors have in human development 
 !!! info inline end "Nuclear reprogramming"
 	See [here](http://www.stemcellcurriculum.org/infographics.html) for an infographic on nuclear reprogramming
 
-<mark style="background: #FFF3A3A6;">Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) [Link](http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded®ion=caption&pgtype=article)</mark>
+
+<figure markdown>
+  ![[extracellular matrix@2x.png|extracellular matrix@2x.png]]{ width="30" }
+  <figcaption>Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) <a href="http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded®ion=caption&pgtype=article">Link</a></figcaption>
+</figure>
 
 Additionally, living organisms have evolved to react to stress by reprogramming their DNA and changing their gene expression. Stressors can take the form of dehydration, malnutrition, or infection. Stress can also be the by-product of social interactions that make a person feel threatened, such as situations involving discrimination ([Radley et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641164/); [Cossins, 2015](https://www.the-scientist.com/features/stress-fractures-36158); [Seppa, 2015](https://www.sciencenews.org/article/chronic-stress-can-wreak-havoc-body)).
 
