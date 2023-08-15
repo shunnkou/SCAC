@@ -7,7 +7,7 @@ title: |
 ---
 During WWII, Nazi Germany industrialized medical research, using prisoners as test subjects. Their practices extended to the most marginalized and persecuted, and included orphans, the mentally ill, and those of ethnicities deemed unfit by their ideology. The uncovering of these practices led to an international effort to curtail harms to those captured during war, but also extended protections more generally to all medical research subjects. A brief overview of the history leading to policy and practice regarding human research subjects is outlined below.
 
-> [!quote]+ Overview
+> [!summary]+ Overview
 > The voluntary consent of the human subject is absolutely essential. The experiment should be such as to yield fruitful results for the good of society, unprocurable by other methods or means of study, and not random and unnecessary in nature. -[Nuremberg Code 1948](http://www.hhs.gov/ohrp/archive/nurcode.html)
 > 
 > After ensuring that the potential subject has understood the information, the physician or another appropriately qualified individual must then seek the potential subject's freely- given informed consent. -[Declaration of Helsinki 1964](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)
