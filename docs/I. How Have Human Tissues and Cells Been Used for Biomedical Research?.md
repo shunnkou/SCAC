@@ -13,7 +13,7 @@ Combining biomedical and social approaches to health aids in our understanding o
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); *[Slide 3: Bioecological Model](http://stemcellcurriculum.org/slidesets.html))*.
 
 <figure markdown>
-  ![[slide 3@2x.png|slide 3@2x.png]]{ width="100" }{ align="right" }
+  ![[slide 3@2x.png|slide 3@2x.png]]{ width="250", align="right" }
   <figcaption>Bioecological Model</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Early studies in the 1950s sought to determine whether our genetic material or e
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
 <figure markdown>
-  ![[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]{ width="100", align="right" }
+  ![[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]{ width="500", align="right" }
   <figcaption>[Timeline10: Biomedical Research](http://www.stemcellcurriculum.org/timelines.html)</figcaption>
 </figure>
 
