@@ -12,7 +12,7 @@ Combining biomedical and social approaches to health aids in our understanding o
 
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); *[Slide 3: Bioecological Model](http://stemcellcurriculum.org/slidesets.html))*.
 
-<figure markdown style="float:right;width:40em;">
+<figure markdown style="float:right;width:25em;">
   ![[slide 3@2x.png|slide 3@2x.png]]
   <figcaption>Bioecological Model</figcaption>
 </figure>
@@ -20,7 +20,7 @@ The field of epigenetics bridges the medical and the social models of health by 
 Epigenetics also investigates local micro- environmental effects on cells, tissues, and organs, to determine which environmental signals are responsible for influencing cells to divide, differentiate, move, or die ([Powell, 2005](http://www.nature.com/nature/journal/v435/n7040/full/435268a.html)) (*[Slide 4: Cell Signaling and Cell Fate](http://stemcellcurriculum.org/slidesets.html)*).
 
 
-<figure markdown style="float:right;width:40em;">
+<figure markdown style="float:left;width:25em;">
   ![[slide 4@2x.png|slide 4@2x.png]]
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
@@ -45,7 +45,7 @@ Though epigenetics has regained popularity in the scientific community, the conc
 
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
-<figure markdown style="float:right;width:30em;">
+<figure markdown style="width:30em;">
   ![[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline10: Biomedical Research</a></figcaption>
 </figure>
