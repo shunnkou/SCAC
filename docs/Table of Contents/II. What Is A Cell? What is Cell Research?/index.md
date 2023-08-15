@@ -3,6 +3,8 @@ share: true
 strip_comments: true
 fix_heading: true
 title: II. What Is A Cell? What is Cell Research?
+aliases:
+  - Section II
 ---
 Cells are defined as the smallest functional biological unit of all organisms, capable of autonomous replication and dynamic interaction with changing environments. They may exist as forms of independent life, as in the case of bacteria and other unicellular organisms, or be a subunit of multicellular organisms contributing to specialized functions that allow the organism to perform as a whole (*[Slides 12-19: History of Cell Biology](http://stemcellcurriculum.org/slidesets.html)*). A commonality to all cells is the chemical composition of carbon, nitrogen, oxygen, hydrogen, phosphorous and sulphur. These chemical units can organize to form water, among other compounds, which makes up 70-90% of the total cell volume. These chemical units are also organized into larger molecular polymers that have specific forms and functions, called macromolecules.
 
