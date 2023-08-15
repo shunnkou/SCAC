@@ -19,7 +19,7 @@ A commonality to all cells is the chemical composition of carbon, nitrogen, oxyg
 # There are four types of macromolecules (lipids, nucleic acids, proteins, and sugars).
 
 
-<figure markdown style="width:10em;">
+<figure markdown style="width:15em;">
   ![slide 20.png](slide%2020.png)
   <figcaption>Nunez, M. and Chamany, K. Macromolecules of cells are composed of repeating subunits and dynamic polymers, assembling and disassembling in response to environmental and intracellular signals.</figcaption>
 </figure>
