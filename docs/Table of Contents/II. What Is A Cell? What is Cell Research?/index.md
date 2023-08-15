@@ -8,7 +8,7 @@ aliases:
 ---
 Cells are defined as the smallest functional biological unit of all organisms, capable of autonomous replication and dynamic interaction with changing environments. They may exist as forms of independent life, as in the case of bacteria and other unicellular organisms, or be a subunit of multicellular organisms contributing to specialized functions that allow the organism to perform as a whole (*[Slides 12-19: History of Cell Biology](http://stemcellcurriculum.org/slidesets.html)*).
 
-[slide 3@2x.png](slide%203@2x.png)
+![slide 3@2x.png](slide%203@2x.png)
 <figure markdown style="float:right; width:20em;">
   [![slide 3@2x.png](slide%203@2x.png)](![video_princeton@2x.png](video_princeton@2x.png))
   <figcaption>Video: Princeton University. 2010. John Bonner's Dictystellum Movie. Youtube. Watch the video by clicking this <a href="https://youtu.be/bkVhLJLG7ug">link</a></figcaption>
@@ -25,7 +25,7 @@ A commonality to all cells is the chemical composition of carbon, nitrogen, oxyg
   <figcaption>Nunez, M. and Chamany, K. Macromolecules of cells are composed of repeating subunits and dynamic polymers, assembling and disassembling in response to environmental and intracellular signals.</figcaption>
 </figure>
 
-[slide 20.png](slide%2020.png)
+![slide 20.png](slide%2020.png)
 
 They collectively make up all the components of a cell and allow cells to interact and respond to their environment (*[Slide 20: Macromolecules](http://stemcellcurriculum.org/slidesets.html)*). Fat macromolecules, or lipids, form membranes that create a barrier with the outside environment and form specialized compartments inside the cell. One such compartment is the nucleus, which houses macromolecules called nucleic acids, otherwise known as DNA and RNA. DNA is the genetic material that is passed on from generation to generation, and serves as an information depot for the synthesis of other macromolecules called proteins. Proteins can be subdivided into categories based on function (*[Slide 21: Proteins](http://stemcellcurriculum.org/slidesets.html)*).
 
