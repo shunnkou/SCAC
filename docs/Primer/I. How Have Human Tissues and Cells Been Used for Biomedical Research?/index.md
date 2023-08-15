@@ -43,8 +43,8 @@ Examples of the vital role that environmental factors have in human development 
 	See [here](http://www.stemcellcurriculum.org/infographics.html) for an infographic on nuclear reprogramming
 
 
-<figure markdown>
-  ![[extracellular matrix@2x.png|extracellular matrix@2x.png]]{ width="30" }
+<figure markdown style="width:30em;">
+  ![[extracellular matrix@2x.png|extracellular matrix@2x.png]]
   <figcaption>Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) <a href="http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded®ion=caption&pgtype=article">Link</a></figcaption>
 </figure>
 
