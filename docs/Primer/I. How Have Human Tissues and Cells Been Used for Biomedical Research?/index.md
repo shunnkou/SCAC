@@ -5,7 +5,8 @@ fix_heading: true
 title: I. How Have Human Tissues and Cells Been Used for Biomedical Research?
 aliases: []
 banner:
-  - "[[slide 3@2x.png|slide 3@2x.png]], [[slide 4@2x.png|slide 4@2x.png]], ]]"
+  - "[[slide 3@2x.png|slide 3@2x.png]]"
+  - "[[slide 4@2x.png|slide 4@2x.png]]"
   - "[[slide 20.png|slide 20.png]]"
   - "[[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]"
   - "[[video_princeton@2x.png|video_princeton@2x.png]]"
