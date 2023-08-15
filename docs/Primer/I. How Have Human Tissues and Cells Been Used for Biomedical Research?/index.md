@@ -28,7 +28,7 @@ The field of epigenetics bridges the medical and the social models of health by 
 Epigenetics also investigates local micro- environmental effects on cells, tissues, and organs, to determine which environmental signals are responsible for influencing cells to divide, differentiate, move, or die ([Powell, 2005](http://www.nature.com/nature/journal/v435/n7040/full/435268a.html)) (*[Slide 4: Cell Signaling and Cell Fate](http://stemcellcurriculum.org/slidesets.html)*).
 
 
-<figure markdown style="float:right;width:15em;">
+<figure markdown style="float:right;width:20em;">
   ![[slide 4@2x.png|slide 4@2x.png]]{ width="30"}
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
