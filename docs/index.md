@@ -21,9 +21,9 @@ This primer addresses these questions through an historical overview of biomedic
 
 **Section V** reviews the techniques and practices associated with cell culture, cell banking, and cell identification. This section also uses an intersectional analysis to highlight the interplay of biology, race, class, and gender in shaping the meaning of “cell line contamination,” both within, and outside, the scientific community.
 
-**In Section VI**, the relationship between human papilloma virus (HPV) and cancer is clarified, with specific attention to the role of telomerase and genomic instability in the establishment of the HeLa cell line, the emergence of new diagnostic tools for HPV infection and cancer, and our increased understanding of stem cell niches.
+In **Section VI**, the relationship between human papilloma virus (HPV) and cancer is clarified, with specific attention to the role of telomerase and genomic instability in the establishment of the HeLa cell line, the emergence of new diagnostic tools for HPV infection and cancer, and our increased understanding of stem cell niches.
 
-**In Section VII**, practices regarding the participation of human subjects in research is reviewed, including an historical overview of informed consent and various policies regarding risk and harm to subjects.
+In **Section VII**, practices regarding the participation of human subjects in research is reviewed, including an historical overview of informed consent and various policies regarding risk and harm to subjects.
 
 **Section VIII** reviews the changing landscape of human subjects research, paying close attention to the evolution of laws and guidelines to recast privacy and ownership of human tissues, cells, and DNA within the context of emerging biocapital.
 
