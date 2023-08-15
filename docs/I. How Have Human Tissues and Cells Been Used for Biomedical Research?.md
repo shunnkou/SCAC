@@ -39,7 +39,7 @@ Additionally, living organisms have evolved to react to stress by reprogramming 
 
 Slide Show. Chaddha, R. July 7, 2007. A Tale of Two Mice. NOVA PBS Slide Show. [Link](http://www.pbs.org/wgbh/nova/body/epigenetic-mice.html) <mark style="background: #FF5582A6;">**Don't see the actual audio slideshow**</mark>
 
-##### Though epigenetics has regained popularity in the scientific community, the concept has been intimately tied to the study of cancer for some time.
+### Though epigenetics has regained popularity in the scientific community, the concept has been intimately tied to the study of cancer for some time.
 Early studies in the 1950s sought to determine whether our genetic material or environment was responsible for the onset of cancer. Researchers quickly realized that this was not an “either/or” proposition and that gene-environment interactions are responsible for 90% of cancers. These same interactions prove important for understanding tissue regeneration in the context of injury and aging. There are also cases of individuals who have managed to halt some aging processes all together. The bodies, genes, and physiology of these individuals present researchers with an opportunity to identify genetic variations that might contribute to this unusual state, as well as illuminate which molecular processes are involved with regeneration and cancer.
 
 <figcaption>Maclean’s. Mackenzee Wittke:The Girl Who Never Ages. [Link](http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/) ([Slide 9: Aging and Immortality](http://stemcellcurriculum.org/slidesets.html))</figcaption>
@@ -61,7 +61,7 @@ Riding the wave of success in the development of antibiotics and vaccines to add
 
 The “War on Cancer” and the National Sickle Cell Act announced by President Nixon in 1971 and 1972, respectively, led to fundraising efforts for biomedicine and broad dissemination of diagnostics. The buy-in from non-profit organizations, private philanthropy, and activist groups such as the Black Panthers resulted in mass collection of biological samples that then served as bioresources for research ([Nelson, 2011](http://www.alondranelson.com/books/body-and-soul-the-black-panther-party-and-the-fight-against-medical-discrimination)). Thus, between 1950 and 1980, American citizens believed it was their civic duty to contribute to the public good by “finding cures” for a myriad of ailments and injuries and to comply with the standard practice of tissue biopsy and blood sample banking.
 
-##### The investment in biomedical research was not the only consequence of WWII.
+### The investment in biomedical research was not the only consequence of WWII.
 War tribunals revealed that unethical medical research was conducted on individuals who were declared “unfit” in the name of science. These research subjects included orphans, those living with disabilities, prisoners, and, in the case of Nazi Germany, many ethnic groups considered impure.
 
 [Timeline0: History of Human Subjects Research](http://www.stemcellcurriculum.org/timelines.html)
