@@ -8,9 +8,8 @@ aliases:
 ---
 Cells are defined as the smallest functional biological unit of all organisms, capable of autonomous replication and dynamic interaction with changing environments. They may exist as forms of independent life, as in the case of bacteria and other unicellular organisms, or be a subunit of multicellular organisms contributing to specialized functions that allow the organism to perform as a whole (*[Slides 12-19: History of Cell Biology](http://stemcellcurriculum.org/slidesets.html)*).
 
-![[../../assets/slide 3@2x.png|slide 3@2x.png]]
 <figure markdown style="float:right; width:20em;">
-  [![[../../assets/slide 3@2x.png|slide 3@2x.png]]](![[video_princeton@2x.png|video_princeton@2x.png]])
+  ![[video_princeton@2x.png|video_princeton@2x.png]]
   <figcaption>Video: Princeton University. 2010. John Bonner's Dictystellum Movie. Youtube. Watch the video by clicking this <a href="https://youtu.be/bkVhLJLG7ug">link</a></figcaption>
 </figure>
 
@@ -21,20 +20,22 @@ A commonality to all cells is the chemical composition of carbon, nitrogen, oxyg
 
 
 <figure markdown style="width:15em;">
-  ![[../../assets/slide 20.png|slide 20.png]]
+  ![[slide 20.png|slide 20.png]]
   <figcaption>Nunez, M. and Chamany, K. Macromolecules of cells are composed of repeating subunits and dynamic polymers, assembling and disassembling in response to environmental and intracellular signals.</figcaption>
 </figure>
-
-![[../../assets/slide 20.png|slide 20.png]]
 
 They collectively make up all the components of a cell and allow cells to interact and respond to their environment (*[Slide 20: Macromolecules](http://stemcellcurriculum.org/slidesets.html)*). Fat macromolecules, or lipids, form membranes that create a barrier with the outside environment and form specialized compartments inside the cell. One such compartment is the nucleus, which houses macromolecules called nucleic acids, otherwise known as DNA and RNA. DNA is the genetic material that is passed on from generation to generation, and serves as an information depot for the synthesis of other macromolecules called proteins. Proteins can be subdivided into categories based on function (*[Slide 21: Proteins](http://stemcellcurriculum.org/slidesets.html)*).
 
 Some proteins provide a structural role to the cell that is akin to our skeletons, giving the cell membrane integrity and strength, and are collectively termed cytoskeletal proteins (cyto- meaning cell). Other proteins are involved in transporting material to and from various compartments within the cell and to the outside environment. Still other proteins “communicate” with the outside environment in the form of signaling pathways. A signaling pathway involves many proteins that interact in a specific sequence, in response to an initial signal outside of the cell (extracellular environment). Often this pathway includes a receptor protein that straddles the cell membrane, allowing it to undergo conformational changes upon binding this external signal. This change in conformational shape allows the receptor protein to make new interactions with molecules and proteins inside of the cell. This cascade of interaction elicits a change in cell behavior by triggering protein synthesis, protein activation, and/or protein reorganization resulting in cellular shape changes required for cell division, cell death, cell movement, or cell specialization. To synthesize proteins, a cell responds to an external signal and uses the information in its DNA to build the appropriate proteins for that specific environment. To accomplish this, the cell uses energy, which is created by a collection of proteins called enzymes that break down another macromolecule type, called sugars, to generate molecular energy in the form of Adenosine Triphosphate (ATP).
 
 # Cell biology is the study of cells as single units and also as organized collectives, referred to as tissues and organs.
+
 One of the most important aspects of cell biology is the role of the extracellular matrix (ECM), which is the material that surrounds cells in multicellular organisms. The ECM is a scaffold of structural proteins and sugar complexes that serves as a depot for extracellular signals such as growth factors. Cell behavior, structure, and organization are influenced by the composition and structure of the ECM, which varies among different tissues and organs. The ECM structure and composition can also be influenced by aging, trauma, and injury, all of which may halt or stimulate cell regeneration and specialization.
 
-<mark style="background: #FFF3A3A6;">Video: Singh, V. Sept 24, 2012. Extracellular Matrix. New York Times Video Science. [Link](http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded&region=caption&pgtype=article)</mark>
+<figure markdown style="width:30em;">
+  ![[extracellular matrix@2x.png|extracellular matrix@2x.png]]
+  <figcaption>Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) <a href="http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded®ion=caption&pgtype=article">Link</a></figcaption>
+</figure>
 
 This specialization can lead to dramatically different cell structures, internal compositions, and organizations that retain the ability to respond to the environment dynamically and quickly. The 2011 International Science and Engineering Visualization Challenge People’s Choice 1st Prize in Video “[Rapid Visual Inventory & Comparison of Complex 3D Structures](https://www.youtube.com/watch?v=Dl1ufW3cj4g)” by Graham Johnson et al., illustrates how mouse pancreatic cells rapidly respond to sugar exposure by altering the synthesis and relative distribution of various organelles, which act as specialized sub structures within cells (*[Slide 22: Scale and Dynamics](http://stemcellcurriculum.org/slidesets.html)*).
 
