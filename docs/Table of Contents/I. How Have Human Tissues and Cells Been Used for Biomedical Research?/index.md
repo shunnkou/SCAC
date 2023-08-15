@@ -22,7 +22,7 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 
 <figure markdown style="float:right;width:15em;">
-  ![slide 4@2x.png](slide%204@2x.png)
+  ![slide 4@2x.png](slide%204@2x.png){ width="30"}
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
 
