@@ -13,7 +13,7 @@ Combining biomedical and social approaches to health aids in our understanding o
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); *[Slide 3: Bioecological Model](http://stemcellcurriculum.org/slidesets.html))*.
 
 <figure markdown>
-  ![[slide 3@2x.png|slide 3@2x.png]]{ width="250", align="right" }
+  ![[slide 3@2x.png|slide 3@2x.png]]{ width="300", align="right" }
   <figcaption>Bioecological Model</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 
 <figure markdown>
-  ![[slide 4@2x.png|slide 4@2x.png]]{ width="100" }{ align="right" }
+  ![[slide 4@2x.png|slide 4@2x.png]]{ width="300", align="right" }
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
 
