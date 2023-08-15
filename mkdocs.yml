@@ -43,7 +43,7 @@ theme:
         - search.suggest
         - search.highlight
         - toc.follow
-        #- toc.integrate # adds the TOC to the file navigation
+        - toc.integrate # adds the TOC to the file navigation
         
 # Extensions
 markdown_extensions:
