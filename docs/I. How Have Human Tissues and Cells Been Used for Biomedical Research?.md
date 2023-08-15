@@ -37,14 +37,12 @@ Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4
 
 Additionally, living organisms have evolved to react to stress by reprogramming their DNA and changing their gene expression. Stressors can take the form of dehydration, malnutrition, or infection. Stress can also be the by-product of social interactions that make a person feel threatened, such as situations involving discrimination ([Radley et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641164/); [Cossins, 2015](https://www.the-scientist.com/features/stress-fractures-36158); [Seppa, 2015](https://www.sciencenews.org/article/chronic-stress-can-wreak-havoc-body)).
 
-<iframe src="http://www.pbs.org/wgbh/nova/body/epigenetic-mice.html"></iframe>
-
 Slide Show. Chaddha, R. July 7, 2007. A Tale of Two Mice. NOVA PBS Slide Show. [Link](http://www.pbs.org/wgbh/nova/body/epigenetic-mice.html) <mark style="background: #FF5582A6;">**Don't see the actual audio slideshow**</mark>
 
 ##### Though epigenetics has regained popularity in the scientific community, the concept has been intimately tied to the study of cancer for some time.
 Early studies in the 1950s sought to determine whether our genetic material or environment was responsible for the onset of cancer. Researchers quickly realized that this was not an “either/or” proposition and that gene-environment interactions are responsible for 90% of cancers. These same interactions prove important for understanding tissue regeneration in the context of injury and aging. There are also cases of individuals who have managed to halt some aging processes all together. The bodies, genes, and physiology of these individuals present researchers with an opportunity to identify genetic variations that might contribute to this unusual state, as well as illuminate which molecular processes are involved with regeneration and cancer.
 
-<iframe src="http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/"</iframe><figcaption>Maclean’s. Mackenzee Wittke:The Girl Who Never Ages. [Link](http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/) ([Slide 9: Aging and Immortality](http://stemcellcurriculum.org/slidesets.html))</figcaption>
+<figcaption>Maclean’s. Mackenzee Wittke:The Girl Who Never Ages. [Link](http://www.macleans.ca/society/health/the-little-girl-who-may-hold-the-secret-to-aging/) ([Slide 9: Aging and Immortality](http://stemcellcurriculum.org/slidesets.html))</figcaption>
 
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
