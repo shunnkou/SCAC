@@ -11,6 +11,8 @@ banner:
   - "[[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]"
   - "[[video_princeton@2x.png|video_princeton@2x.png]]"
   - "[[extracellular matrix@2x.png|extracellular matrix@2x.png]]"
+  - "[[retroreport_nixon@2x.png|retroreport_nixon@2x.png]]"
+  - "[[Timeline 0.png|Timeline 0.png]]"
 ---
 # Biomedical research, or experimental medicine, is a combination of basic and applied research done in the interest of promoting a healthy population.
 
@@ -74,13 +76,19 @@ In the United States (US), the response was the publication of “Science The En
 
 Riding the wave of success in the development of antibiotics and vaccines to address infectious diseases, a national pride emerged with many citizens seeing their contribution as part of the larger social good. Soon after Bush’s proposal was presented, the National Science Foundation (NSF) and the National Institutes of Health (NIH) alongside increased funding for biomedicine, led to developments in cell biology, immunology, and genetics, with the dual aim of maintaining a healthy workforce and creating marketable products. These developments were then touted in campaigns to stimulate public interest in continued investment and expansion of this emerging field. The success of the international smallpox vaccine campaign spurred other large-scale efforts. Around the same time that smallpox was eradicated, Mary Lasker, a philanthropist and activist for biomedical research, propelled the first large-scale studies to address cancer, what was then considered an epidemic without a cause.
 
-<mark style="background: #FFF3A3A6;">Video: Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). [Link](http://www.retroreport.org/video/the-long-war-on-cancer/)</mark>
+<figure markdown style="width:30em;">
+  ![[retroreport_nixon@2x.png|retroreport_nixon@2x.png]]
+  <figcaption>Video: Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). <a href="http://www.retroreport.org/video/the-long-war-on-cancer/">Link</a></figcaption>
+</figure>
 
-The “War on Cancer” and the National Sickle Cell Act announced by President Nixon in 1971 and 1972, respectively, led to fundraising efforts for biomedicine and broad dissemination of diagnostics. The buy-in from non-profit organizations, private philanthropy, and activist groups such as the Black Panthers resulted in mass collection of biological samples that then served as bioresources for research ([Nelson, 2011](http://www.alondranelson.com/books/body-and-soul-the-black-panther-party-and-the-fight-against-medical-discrimination)). Thus, between 1950 and 1980, American citizens believed it was their civic duty to contribute to the public good by “finding cures” for a myriad of ailments and injuries and to comply with the standard practice of tissue biopsy and blood sample banking.
+The “War on Cancer” and the National Sickle Cell Act announced by President Nixon in 1971 and 1972, respectively, led to fundraising efforts for biomedicine and broad dissemination of diagnostics. The buy-in from non-profit organizations, private philanthropy, and activist groups such as the Black Panthers resulted in mass collection of biological samples that then served as bioresources for research (<mark style="background: #FFF3A3A6;">[Nelson, 2011](http://www.alondranelson.com/books/body-and-soul-the-black-panther-party-and-the-fight-against-medical-discrimination)</mark>). Thus, between 1950 and 1980, American citizens believed it was their civic duty to contribute to the public good by “finding cures” for a myriad of ailments and injuries and to comply with the standard practice of tissue biopsy and blood sample banking.
 
 The investment in biomedical research was not the only consequence of WWII. War tribunals revealed that unethical medical research was conducted on individuals who were declared “unfit” in the name of science. These research subjects included orphans, those living with disabilities, prisoners, and, in the case of Nazi Germany, many ethnic groups considered impure.
 
-[Timeline0: History of Human Subjects Research](http://www.stemcellcurriculum.org/timelines.html)
+<figure markdown style="width:30em;">
+  ![[Timeline 0.png|Timeline 0.png]]
+  <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline0: History of Human Subjects Research</a></figcaption>
+</figure>
 
 Because it was believed that they represented maladaptation, policies were put in place to limit their ability to reproduce, as they were considered to have genomes that did not confer biological fitness (the ability to survive in the current environment). In later years, more egregious practices were uncovered around the world, and by 1964, the first international effort to devise guidelines for ethical biomedical research using human subjects was issued as the [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/). Though the declaration clearly stated that human research subjects be informed about the benefits and risks associated with research, and participate voluntarily with free will, it did not consider the downstream ethical issues associated with biological samples obtained from human subjects. The Declaration’s focus on respect for the body as it pertains to personhood and dignity, does little to consider the ownership, compensation, or privacy dimensions of tissues, cells, and blood.
 
