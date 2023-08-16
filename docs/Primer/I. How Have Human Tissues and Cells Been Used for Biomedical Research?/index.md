@@ -6,27 +6,27 @@ title: I. How Have Human Tissues and Cells Been Used for Biomedical Research?
 aliases:
   - Section I
 #banner:
-#  - "[[slide 3.png|slide 3.png]]"
-#  - "[[slide 4.png|slide 4.png]]"
-#  - "[[slide 20.png|slide 20.png]]"
-#  - "[[../../assets/Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]"
-#  - "[[video_princeton.png|video_princeton.png]]"
-#  - "[[extracellular-matrix.png|extracellular-matrix.png]]"
-#  - "[[../../assets/retroreport_nixon.png|retroreport_nixon.png]]"
-#  - "[[../../assets/Timeline 0.png|Timeline 0.png]]"
-#  - "[[../../assets/benjamin_TEDx.png|benjamin_TEDx.png]]"
-#  - "[[../../assets/goodwin.png|goodwin.png]]"
-#  - "[[../../assets/Sparkman 2013.png|Sparkman 2013.png]]"
-#  - "[[../../assets/Picht 2013.png|Picht 2013.png]]"
+#  - "[slide 3.png](slide%203.png)"
+#  - "[slide 4.png](slide%204.png)"
+#  - "[slide 20.png](slide%2020.png)"
+#  - "[Timeline 10Biomedical research.png](../../assets/Timeline%2010Biomedical%20research.png)"
+#  - "[video_princeton.png](video_princeton.png)"
+#  - "[extracellular-matrix.png](extracellular-matrix.png)"
+#  - "[retroreport_nixon.png](../../assets/retroreport_nixon.png)"
+#  - "[Timeline 0.png](../../assets/Timeline%200.png)"
+#  - "[benjamin_TEDx.png](../../assets/benjamin_TEDx.png)"
+#  - "[goodwin.png](../../assets/goodwin.png)"
+#  - "[Sparkman 2013.png](../../assets/Sparkman%202013.png)"
+#  - "[Picht 2013.png](../../assets/Picht%202013.png)"
 ---
 # Biomedical research, or experimental medicine, is a combination of basic and applied research done in the interest of promoting a healthy population.
-
+a
 The World Health Organization’s (WHO) definition, issued in 1946, implied a normative connotation when describing “healthy” as a “state of complete physical, mental, and social well being” ([WHO, 1946](http://www.who.int/governance/eb/who_constitution_en.pdf)). Later definitions continued to reference “the absence of disease or infirmity” as an indicator of a healthy state, thereby relegating people living with disease and disability to an “unhealthy” category. Using these definitions, one can only be part of a healthy population if their disease/disability is treated, or cured, which first requires diagnosis.
 
 Thus, an individual’s health is assessed using diagnostic tests that measure physical and cognitive abilities in a changing environment and comparing these results to a reference standard. When reduced ability, or disease, emerges, researchers use these cases as opportunities to investigate possible causes. The approach can be medical, seeking to understand, or address, the molecular processes that contribute to disease or disability. Alternatively, the approach can be social, investigating how our current and future environments are hindering some persons from contributing to society and living a full life, without social barriers. In some cases, the social model attempts to address the oppression felt by those living with impairment as a result of discriminatory practices ([Shakespeare, 2002](https://www.um.es/discatif/PROYECTO_DISCATIF/Textos_discapacidad/00_Shakespeare2.pdf)). A contemporary approach looks at the intersection of the biomedical and social models of health by investigating how social factors such as stress, poverty, and racism hijack molecular processes resulting in chronic disease/disability and increased mortality ([Eisenberg, 1999](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455991/); [Galea et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134519/); [Radley et al., 2011](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641164/)).
 
 <figure markdown style="float:left; width:20em;">
-  ![[slide 3.png|slide 3.png]]
+  ![slide 3.png](slide%203.png)
   <figcaption>Bioecological Model</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 
 
 <figure markdown style="float:right;width:20em;">
-  ![[slide 4.png|slide 4.png]]
+  ![slide 4.png](slide%204.png)
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Examples of the vital role that environmental factors have in human development 
 
 
 <figure markdown style="width:30em;">
-  ![[extracellular matrix.png|extracellular matrix.png]]
+  ![extracellular matrix.png](extracellular%20matrix.png)
   <figcaption>Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) <a href="http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded®ion=caption&pgtype=article">Link</a></figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Early studies in the 1950s sought to determine whether our genetic material or e
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
 %%<figure markdown style="width:30em;">
-  ![[../../assets/Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]
+  ![Timeline 10Biomedical research.png](../../assets/Timeline%2010Biomedical%20research.png)
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline10: Biomedical Research</a></figcaption>
 </figure>%%
 
@@ -82,7 +82,7 @@ In the United States (US), the response was the publication of “Science The En
 Riding the wave of success in the development of antibiotics and vaccines to address infectious diseases, a national pride emerged with many citizens seeing their contribution as part of the larger social good. Soon after Bush’s proposal was presented, the National Science Foundation (NSF) and the National Institutes of Health (NIH) alongside increased funding for biomedicine, led to developments in cell biology, immunology, and genetics, with the dual aim of maintaining a healthy workforce and creating marketable products. These developments were then touted in campaigns to stimulate public interest in continued investment and expansion of this emerging field. The success of the international smallpox vaccine campaign spurred other large-scale efforts. Around the same time that smallpox was eradicated, Mary Lasker, a philanthropist and activist for biomedical research, propelled the first large-scale studies to address cancer, what was then considered an epidemic without a cause.
 
 %%<figure markdown style="width:30em;">
-  ![[../../assets/retroreport_nixon.png|retroreport_nixon.png]]
+  ![retroreport_nixon.png](../../assets/retroreport_nixon.png)
   <figcaption>Video: Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). <a href="http://www.retroreport.org/video/the-long-war-on-cancer/">Link</a></figcaption>
 </figure>%%
 
@@ -91,7 +91,7 @@ The “War on Cancer” and the National Sickle Cell Act announced by President 
 The investment in biomedical research was not the only consequence of WWII. War tribunals revealed that unethical medical research was conducted on individuals who were declared “unfit” in the name of science. These research subjects included orphans, those living with disabilities, prisoners, and, in the case of Nazi Germany, many ethnic groups considered impure.
 
 %%<figure markdown style="width:30em;">
-  ![[../../assets/Timeline 0.png|Timeline 0.png]]
+  ![Timeline 0.png](../../assets/Timeline%200.png)
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline0: History of Human Subjects Research</a></figcaption>
 </figure>%%
 
@@ -102,7 +102,7 @@ These disembodied pieces of bodies, be they organs, eggs, embryos, genetic seque
 Some argue that this murky situation has led to the emergence of legitimized markets for biomaterial and cell therapies whose access is restricted to particular groups of privilege ([Greene, 2006](http://www.jstor.org/discover/10.2307/3528598?uid=3739832&uid=2&uid=4&uid=3739256&sid=21103243586681)). This is particularly problematic when biomaterial is acquired from persons who continue to be marginalized, or exploited, through a biomedical research model that does not uphold distributive or procedural justice ([Nelson, 2011](https://epay.newschool.edu/C21120_ustores/web/product_detail.jsp?PRODUCTID=5498&_ga=1.232712095.1200864493.1358260774); [Chamany, 2011](https://epay.newschool.edu/C21120_ustores/web/product_detail.jsp?PRODUCTID=5498&_ga=1.232712095.1200864493.1358260774); [Chamany, 2015](https://www.geneticsandsociety.org/biopolitical-times/new-rules-proposed-address-privacy-and-trust-precision-medicine-initiative)). Distributive justice refers to access to knowledge and therapies produced from biomedical research, while procedural justice refers to participation in the shaping of the direction of biomedical research as a human research subject, policy maker, or scientist. Critics of the biomedical model approach claim that this approach neglects the systemic and/or structural injustice that creates health inequities and by doing so, positions those on the downside of inequities as bioresources, exacerbating their exposure to health risk and reifying their risk status. Thus, a strictly biomedical approach to health inequity will maintain that the people who serve as sites of experimentation, or bodily goods, are the same people that will suffer from lack of access to drugs, technologies, and legal protections that could improve and protect their lives ([Shakespeare, 2002](https://www.um.es/discatif/PROYECTO_DISCATIF/Textos_discapacidad/00_Shakespeare2.pdf); [Goodwin, 2007](http://ssrn.com/abstract=1660564); [Washington, 2006](https://books.google.com/books/about/Medical_Apartheid.html?id=4ZmJvC3f-m0C); [Democracy Now, 2010](http://www.democracynow.org/2007/1/19/medical_apartheid_the_dark_history_of); [Benjamin, 2013](http://www.ruhabenjamin.com/peoples-science/); [Benjamin, 2014](http://onlinelibrary.wiley.com/doi/10.1111/soc4.12167/abstract;jsessionid=6F5FDF72AF4A95DE0FC9CF9EA65C1F52.f03t03?userIsAuthenticated=false&deniedAccessCustomisedMessage=)).
 
 %%<figure markdown style="float:left; width:30em;">
-  ![[../../assets/benjamin_TEDx.png|benjamin_TEDx.png]]
+  ![benjamin_TEDx.png](../../assets/benjamin_TEDx.png)
   <figcaption>Video: Benjamin, R. Feb 5, 2015.
   From park bench to lab bench.
   What kind of future are we designing? TEDxBaltimore. YouTube.(21:25 min)  <a href="https://www.youtube.com/watch?v=_8RrX4hjCr0">Link</a></figcaption>
@@ -111,7 +111,7 @@ Some argue that this murky situation has led to the emergence of legitimized mar
 Mark Greene, a bioethicist, returns to the principles of distributive and procedural justice in “To Restore Faith and Trust: Justice and Biological Access to Cellular Therapies.” According to Greene, biomedical therapies should be available to people of all ethnicities and, thus, diversifying the samples in biobanks is of high priority. By including under-represented minorities in the process of biospecimen collection (procedural justice through representation), the biobank can serve as a resource for medical therapies for this population (distributive justice through access). Greene offers a proposal for an ethnically weighted biobank created through additional public funding to support the health of under-represented minorities that can serve as a practical public expression of apology for past discrimination in health research ([Greene, 2006](http://www.jstor.org/discover/10.2307/3528598?uid=3739832&uid=2&uid=4&uid=3739256&sid=21103243586681)). Seema Mohapatra and Michelle Goodwin, who specialize in health law, also propose plans using incentives to encourage donations to biobanks ([Mohapatra, 2013](http://lawreview.colorado.edu/wp-content/uploads/2013/11/10.-Mohaptra_703_s.pdf); [Goodwin, 2007](http://ssrn.com/abstract=1660564); [Trotter, 2006](http://www.nejm.org/doi/full/10.1056/NEJMbkrev57035)). Their proposals are designed to address the lack of diversity in these banks, which reduce the chances of immunological matching of blood transplants that would disproportionately impact specific communities. Additionally, Goodwin presents these proposals as an alternative to existing unregulated markets for bodily goods ([Goodwin, 2007](http://ssrn.com/abstract=1660564)). Widdows and Cordell remind researchers that they must recognize the unique nature of each community and the goods that they provide. They warn researchers that to view community as a monolithic entity can lead to dangerous and unethical practices and a sense of distrust ([Widdows & Cordell, 2011](http://phe.oxfordjournals.org/content/4/1/14.abstract)). To provide guidance and expertise to communities and individuals that provide vital information and biological resources to these growing large- scale datasets, David and Richard Winikoff have proposed a “Charitable Trust Model” which is being adapted by some states and countries ([Winikoff & Winikoff, 2003](http://www.nejm.org/doi/full/10.1056/NEJMsb030036)). In this model the community and individuals within it, are expected to be dynamically involved in a tiered informed consent process and can influence the direction of research directly.
 
 %%<figure markdown style="width:30em;">
-  ![[../../assets/goodwin.png|goodwin.png]]
+  ![goodwin.png](../../assets/goodwin.png)
   <figcaption>Video. Goodwin, M. 2011. Whose Values and Principles in a New Biopolitics. Tarrytown Meetings. YouTube. (10:48 min) <a href="https://www.youtube.com/watch?v=LjnG1Kr_OFM">Link</a></figcaption>
 </figure>%%
 
@@ -130,18 +130,18 @@ This focus on informed consent is central to the film adaptation of Skloot’s b
 The collection of tissues and cells inevitably means that DNA is also collected, the latter of which can be used to identify the origin of the material. When Lars Steinmetz and colleagues at the European Molecular Biology Laboratory in Heidelberg Germany published the genomic sequence of the HeLa cell line online for the first time, some in the scientific community raised concerns about privacy because permission to publish the sequence was not secured from the Lacks family ([Brainard 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING); [Callaway, 2013a](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING); [Skloot, 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING); [Hudson and Collins, 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING)).
 
 %%<figure markdown style="width:30em;">
-  ![[../../assets/Sparkman 2013.png|Sparkman 2013.png]]
+  ![Sparkman 2013.png](../../assets/Sparkman%202013.png)
   <figcaption>Video: Sparkman, S. 2013. The HeLa Cell Genome Published, Causes Privacy Controversy. Newsy. Dailymotion <a href="http://www.dailymotion.com/video/xykeuq_hela-cell-genome-published-causes-privacy-controversy_news">Timeline10: Biomedical Research</a></figcaption>
 </figure>%%
 
 Following publication of this genomic sequence, two researchers were able to identify the source of the cell line using information from recreational genealogy databases. This alarming chain of events highlights the need not only for informed consent, but also, de-identifying mechanisms that protect the identities of donors and biospecimen providers ([Hayden, 2013a](http://www.nature.com/news/privacy-protections-the-genome-hacker-1.12940); [Hayden, 2013b](http://www.nature.com/news/privacy-loophole-found-in-genetic-databases-1.12237)). In 2013, as another research team prepared to release more data on the HeLa genome, Francis Collins, director of the NIH, saw an opportunity to involve the Lacks family in shaping the protocols for scientific access to genomic data entered into the Genotypes and Phenotypes Database on a case-by-case basis ([Callaway, 2013b](http://www.nature.com/news/deal-done-over-hela-cell-line-1.13511)). That two members of the Lacks family now participate as members on the “HeLa Genome Data Access” working group may be viewed by some as a move in the right direction, but there are concerns that this sort of personal gate-keeping may prove challenging ([Chamany, 2015](https://www.geneticsandsociety.org/biopolitical-times/new-rules-proposed-address-privacy-and-trust-precision-medicine-initiative)). This approach is in stark contrast to prior decisions made by institutional review boards (IRBs) that dissuaded clinicians from placing research directives in the hands of patients or providing acknowledgement or compensation to their family members ([Troug et al., 2012](http://www.sciencemag.org/content/337/6090/37)).
 
 %%<figure markdown style="float:left; width:30em;">
-  ![[../../assets/Picht 2013.png|Picht 2013.png]]
+  ![Picht 2013.png](../../assets/Picht%202013.png)
   <figcaption>Video. Picht, M. Aug 7, 2013. Henrietta Lacks’ Family Finally Gets Say in Genome Research. Newsy Dailymotion. (2:47 min) <a href="http://www.dailymotion.com/video/x12uf1k_henrietta-lacks-family-finally-gets-say-in-genome-research_news">Link</a></figcaption>
 </figure>%%
 
-In line with this shift in shared responsibility to negotiate privacy, ownership, and compensation related to biospecimens, proposals to improve current regulations and practices regarding human subjects have emerged (See section on [[../VII. What Policies Are in Place for Regulating Research with Human Subjects?/index|What Policies Are in Place for Regulating Research with Human Subjects?]]). The International Society for Stem Cell Research (ISSCR) Registry of Human Embryonic Stem Cell Lines Provenance and the US National Stem Cell Registry address the ethical provenance of stem cell lines excluding cell lines that are not in compliance with contemporary rules and guidelines regarding biospecimin procurement ([Knoppers & Isasai, 2010](http://genomemedicine.com/content/2/10/73); [Wadman, 2013](http://www.nature.com/news/medical-research-cell-division-1.13273)). The authors of Achieving Justice in Genomic Translation: Re-Thinking the Pathway to Benefit evoke a responsive justice framework to call on researchers to take greater responsibility in protecting subjects and communities, specifically addressing redistribution and recognition with respect to underserved communities ([Burke, et al. 2011](http://books.google.com/books?id=KA5pAgAAQBAJ&pg=PA10&lpg=PA10&dq=Achieving+Justice+in+Genomic+Translation:+Re-Thinking+the+Pathway+to+Benefit&source=bl&ots=nsmPJfElm6&sig=0NE2v3JeNNxjOpf6rqdBkp0JYL4&hl=en&sa=X&ei=A2vVUpe5KbO0sQTT-4D4CA&ved=0CEoQ6AEwBA#v=onepage&q=Achieving%2520Justice%2520in%2520Genomic%2520Translation%253A%2520Re-Thinking%2520the%2520Pathway%2520to%2520Benefit&f=false); page 3-20 in Google Books). Some of these approaches mimic the benefit-sharing models created by the biotechnology and pharmaceutical sectors to secure indigenous knowledge and bioresources that are mined for the development of novel drugs. However, few of these benefit-sharing models are seen as sustainable or just, as reviewed by Harry and Kanehe in their chapter “The B.S. in Access and Benefit Sharing” published by the Edmonds Institute and Corey Hayden’s book titled When Nature Goes Public ([Harry and Kanehe, 2005](http://www.ipcb.org/publications/other_art/bsinabs.html); [Hayden, 2003](http://press.princeton.edu/titles/7673.html)).
+In line with this shift in shared responsibility to negotiate privacy, ownership, and compensation related to biospecimens, proposals to improve current regulations and practices regarding human subjects have emerged (See section on [What Policies Are in Place for Regulating Research with Human Subjects?](../VII.%20What%20Policies%20Are%20in%20Place%20for%20Regulating%20Research%20with%20Human%20Subjects?/index.md)). The International Society for Stem Cell Research (ISSCR) Registry of Human Embryonic Stem Cell Lines Provenance and the US National Stem Cell Registry address the ethical provenance of stem cell lines excluding cell lines that are not in compliance with contemporary rules and guidelines regarding biospecimin procurement ([Knoppers & Isasai, 2010](http://genomemedicine.com/content/2/10/73); [Wadman, 2013](http://www.nature.com/news/medical-research-cell-division-1.13273)). The authors of Achieving Justice in Genomic Translation: Re-Thinking the Pathway to Benefit evoke a responsive justice framework to call on researchers to take greater responsibility in protecting subjects and communities, specifically addressing redistribution and recognition with respect to underserved communities ([Burke, et al. 2011](http://books.google.com/books?id=KA5pAgAAQBAJ&pg=PA10&lpg=PA10&dq=Achieving+Justice+in+Genomic+Translation:+Re-Thinking+the+Pathway+to+Benefit&source=bl&ots=nsmPJfElm6&sig=0NE2v3JeNNxjOpf6rqdBkp0JYL4&hl=en&sa=X&ei=A2vVUpe5KbO0sQTT-4D4CA&ved=0CEoQ6AEwBA#v=onepage&q=Achieving%2520Justice%2520in%2520Genomic%2520Translation%253A%2520Re-Thinking%2520the%2520Pathway%2520to%2520Benefit&f=false); page 3-20 in Google Books). Some of these approaches mimic the benefit-sharing models created by the biotechnology and pharmaceutical sectors to secure indigenous knowledge and bioresources that are mined for the development of novel drugs. However, few of these benefit-sharing models are seen as sustainable or just, as reviewed by Harry and Kanehe in their chapter “The B.S. in Access and Benefit Sharing” published by the Edmonds Institute and Corey Hayden’s book titled When Nature Goes Public ([Harry and Kanehe, 2005](http://www.ipcb.org/publications/other_art/bsinabs.html); [Hayden, 2003](http://press.princeton.edu/titles/7673.html)).
 
 Most of the criticism regarding benefit-sharing agreements arises from unequal power relations regarding memoranda of understanding (MOUs), because one party lacks the language and procedural knowledge to negotiate for benefits within a legal, biotechnological, or business framework. In the case of the HeLa cell line and the publication of genomic data, questions regarding compensation to the family were addressed by the Supreme Court case dismissing patents on naturally occurring genes, with the language being narrowly constrained around DNA sequences ([Zimmer, 2013](http://www.nytimes.com/2013/08/08/science/after-decades-of-research-henrietta-lacks-family-is-asked-for-consent.html); [Callaway, 2013b](http://www.nature.com/news/deal-done-over-hela-cell-line-1.13511); [Hudson and Collins, 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING)). What was perhaps not made clear to the family is the ways in which this court decision leaves open the possibility of continued commercialization of products informed by these data as they could be based on RNA, chimeric proteins, or other inventions that are dependent on those DNA sequences but, remain patentable. It is also not entirely clear whether the HeLa genome would be considered something occurring in nature because genomic analyses reveal that the cell line has extensive chromosome shattering not seen in nature, but most likely induced by lab culture conditions ([Landry et al. 2013](http://www.g3journal.org/content/early/2013/03/11/g3.113.005777.abstract)).
 
@@ -167,6 +167,6 @@ In the short presentation below, Elizabeth Yeampierre, of the community-based en
 
 %%___
 
-# [[1_Section 2|Next Section]] ![[../../assets/turn-right.png|40]]{ width='25' }
+# [Next Section](1_Section%202.md) ![40](../../assets/turn-right.png){ width='25' }
 
 %%
