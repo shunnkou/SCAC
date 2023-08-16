@@ -10,6 +10,7 @@ banner:
   - "[[slide 20.png|slide 20.png]]"
   - "[[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]"
   - "[[video_princeton@2x.png|video_princeton@2x.png]]"
+  - "[[extracellular matrix@2x.png|extracellular matrix@2x.png]]"
 ---
 # Biomedical research, or experimental medicine, is a combination of basic and applied research done in the interest of promoting a healthy population.
 

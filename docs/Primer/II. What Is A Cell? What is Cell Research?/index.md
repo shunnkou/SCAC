@@ -5,6 +5,8 @@ fix_heading: true
 title: II. What Is A Cell? What is Cell Research?
 aliases:
   - Section II
+banner:
+  - "[[video_princeton@2x.png|video_princeton@2x.png]]"
 ---
 Cells are defined as the smallest functional biological unit of all organisms, capable of autonomous replication and dynamic interaction with changing environments. They may exist as forms of independent life, as in the case of bacteria and other unicellular organisms, or be a subunit of multicellular organisms contributing to specialized functions that allow the organism to perform as a whole (*[Slides 12-19: History of Cell Biology](http://stemcellcurriculum.org/slidesets.html)*).
 
