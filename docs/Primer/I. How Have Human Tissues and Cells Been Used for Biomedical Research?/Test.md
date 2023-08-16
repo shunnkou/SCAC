@@ -50,7 +50,20 @@ Early studies in the 1950s sought to determine whether our genetic material or e
 
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
-%%<figure markdown style="width:30em;">
-  ![[../../assets/Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]
+<figure markdown style="width:30em;">
+  ![[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline10: Biomedical Research</a></figcaption>
-</figure>%%
+</figure>
+
+# This shift refocused society’s attention from external threats associated with wartime propaganda to threats located in our own bodies and genes.
+
+In the United States (US), the response was the publication of “Science The Endless Frontier” in 1945. The report, authored by Vannevar Bush, Director of the Office of Scientific Research and Development, equated scientific progress with social and economic development and proposed a national investment in biomedical research ([NSF,1945](http://www.nsf.gov/about/history/nsf50/vbush1945.jsp); [Crow, 2005](https://cspo.org/legacy/library/090729F3GD_lib_BushconferenceHi.pdf); [Cozzens, 2005](https://cspo.org/legacy/library/090729F3GD_lib_BushconferenceHi.pdf); [Pielke, 2010](http://sciencepolicy.colorado.edu/admin/publication_files/2010.24.pdf)).
+
+> “Progress in the war against disease depends upon a flow of new scientific knowledge. New products, new industries, and more jobs require continuous additions to knowledge of the laws of nature, and the application of that knowledge to practical purposes. Similarly, our defense against aggression demands new knowledge so that we can develop new and improved weapons. This essential, new knowledge can be obtained only through basic scientific research.” ([Bush, 1945](http://www.nsf.gov/about/history/nsf50/vbush1945_bush_letter.jsp))
+
+Riding the wave of success in the development of antibiotics and vaccines to address infectious diseases, a national pride emerged with many citizens seeing their contribution as part of the larger social good. Soon after Bush’s proposal was presented, the National Science Foundation (NSF) and the National Institutes of Health (NIH) alongside increased funding for biomedicine, led to developments in cell biology, immunology, and genetics, with the dual aim of maintaining a healthy workforce and creating marketable products. These developments were then touted in campaigns to stimulate public interest in continued investment and expansion of this emerging field. The success of the international smallpox vaccine campaign spurred other large-scale efforts. Around the same time that smallpox was eradicated, Mary Lasker, a philanthropist and activist for biomedical research, propelled the first large-scale studies to address cancer, what was then considered an epidemic without a cause.
+
+<figure markdown style="width:30em;">
+  ![[retroreport_nixon@2x.png|retroreport_nixon@2x.png]]
+  <figcaption>Video: Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). <a href="http://www.retroreport.org/video/the-long-war-on-cancer/">Link</a></figcaption>
+</figure>
