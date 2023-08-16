@@ -12,9 +12,9 @@ aliases:
 #  - "[[Timeline 10Biomedical research.png|Timeline 10Biomedical research.png]]"
 #  - "[[video_princeton.png|video_princeton.png]]"
 #  - "[[extracellular-matrix.png|extracellular-matrix.png]]"
-#  - "[[../../assets/retroreport_nixon.png|retroreport_nixon.png]]"
-#  - "[[../../assets/Timeline 0.png|Timeline 0.png]]"
-#  - "[[../../assets/benjamin_TEDx.png|benjamin_TEDx.png]]"
+#  - "[[retroreport_nixon.png|retroreport_nixon.png]]"
+#  - "[[Timeline 0.png|Timeline 0.png]]"
+#  - "[[benjamin_TEDx.png|benjamin_TEDx.png]]"
 #  - "[[../../assets/goodwin.png|goodwin.png]]"
 #  - "[[../../assets/Sparkman 2013.png|Sparkman 2013.png]]"
 #  - "[[../../assets/Picht 2013.png|Picht 2013.png]]"
@@ -80,19 +80,19 @@ In the United States (US), the response was the publication of “Science The En
 
 Riding the wave of success in the development of antibiotics and vaccines to address infectious diseases, a national pride emerged with many citizens seeing their contribution as part of the larger social good. Soon after Bush’s proposal was presented, the National Science Foundation (NSF) and the National Institutes of Health (NIH) alongside increased funding for biomedicine, led to developments in cell biology, immunology, and genetics, with the dual aim of maintaining a healthy workforce and creating marketable products. These developments were then touted in campaigns to stimulate public interest in continued investment and expansion of this emerging field. The success of the international smallpox vaccine campaign spurred other large-scale efforts. Around the same time that smallpox was eradicated, Mary Lasker, a philanthropist and activist for biomedical research, propelled the first large-scale studies to address cancer, what was then considered an epidemic without a cause.
 
-%%<figure markdown style="width:30em;">
-  ![[../../assets/retroreport_nixon.png|retroreport_nixon.png]]
+<figure markdown style="width:30em;">
+  ![[retroreport_nixon.png|retroreport_nixon.png]]
   <figcaption>Video: Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). <a href="http://www.retroreport.org/video/the-long-war-on-cancer/">Link</a></figcaption>
-</figure>%%
+</figure>
 
 The “War on Cancer” and the National Sickle Cell Act announced by President Nixon in 1971 and 1972, respectively, led to fundraising efforts for biomedicine and broad dissemination of diagnostics. The buy-in from non-profit organizations, private philanthropy, and activist groups such as the Black Panthers resulted in mass collection of biological samples that then served as bioresources for research (<mark style="background: #FFF3A3A6;">[Nelson, 2011](http://www.alondranelson.com/books/body-and-soul-the-black-panther-party-and-the-fight-against-medical-discrimination)</mark>). Thus, between 1950 and 1980, American citizens believed it was their civic duty to contribute to the public good by “finding cures” for a myriad of ailments and injuries and to comply with the standard practice of tissue biopsy and blood sample banking.
 
 The investment in biomedical research was not the only consequence of WWII. War tribunals revealed that unethical medical research was conducted on individuals who were declared “unfit” in the name of science. These research subjects included orphans, those living with disabilities, prisoners, and, in the case of Nazi Germany, many ethnic groups considered impure.
 
-%%<figure markdown style="width:30em;">
-  ![[../../assets/Timeline 0.png|Timeline 0.png]]
+<figure markdown style="width:30em;">
+  ![[Timeline 0.png|Timeline 0.png]]
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline0: History of Human Subjects Research</a></figcaption>
-</figure>%%
+</figure>
 
 Because it was believed that they represented maladaptation, policies were put in place to limit their ability to reproduce, as they were considered to have genomes that did not confer biological fitness (the ability to survive in the current environment). In later years, more egregious practices were uncovered around the world, and by 1964, the first international effort to devise guidelines for ethical biomedical research using human subjects was issued as the [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/). Though the declaration clearly stated that human research subjects be informed about the benefits and risks associated with research, and participate voluntarily with free will, it did not consider the downstream ethical issues associated with biological samples obtained from human subjects. The Declaration’s focus on respect for the body as it pertains to personhood and dignity, does little to consider the ownership, compensation, or privacy dimensions of tissues, cells, and blood.
 
@@ -100,12 +100,12 @@ These disembodied pieces of bodies, be they organs, eggs, embryos, genetic seque
 
 Some argue that this murky situation has led to the emergence of legitimized markets for biomaterial and cell therapies whose access is restricted to particular groups of privilege ([Greene, 2006](http://www.jstor.org/discover/10.2307/3528598?uid=3739832&uid=2&uid=4&uid=3739256&sid=21103243586681)). This is particularly problematic when biomaterial is acquired from persons who continue to be marginalized, or exploited, through a biomedical research model that does not uphold distributive or procedural justice ([Nelson, 2011](https://epay.newschool.edu/C21120_ustores/web/product_detail.jsp?PRODUCTID=5498&_ga=1.232712095.1200864493.1358260774); [Chamany, 2011](https://epay.newschool.edu/C21120_ustores/web/product_detail.jsp?PRODUCTID=5498&_ga=1.232712095.1200864493.1358260774); [Chamany, 2015](https://www.geneticsandsociety.org/biopolitical-times/new-rules-proposed-address-privacy-and-trust-precision-medicine-initiative)). Distributive justice refers to access to knowledge and therapies produced from biomedical research, while procedural justice refers to participation in the shaping of the direction of biomedical research as a human research subject, policy maker, or scientist. Critics of the biomedical model approach claim that this approach neglects the systemic and/or structural injustice that creates health inequities and by doing so, positions those on the downside of inequities as bioresources, exacerbating their exposure to health risk and reifying their risk status. Thus, a strictly biomedical approach to health inequity will maintain that the people who serve as sites of experimentation, or bodily goods, are the same people that will suffer from lack of access to drugs, technologies, and legal protections that could improve and protect their lives ([Shakespeare, 2002](https://www.um.es/discatif/PROYECTO_DISCATIF/Textos_discapacidad/00_Shakespeare2.pdf); [Goodwin, 2007](http://ssrn.com/abstract=1660564); [Washington, 2006](https://books.google.com/books/about/Medical_Apartheid.html?id=4ZmJvC3f-m0C); [Democracy Now, 2010](http://www.democracynow.org/2007/1/19/medical_apartheid_the_dark_history_of); [Benjamin, 2013](http://www.ruhabenjamin.com/peoples-science/); [Benjamin, 2014](http://onlinelibrary.wiley.com/doi/10.1111/soc4.12167/abstract;jsessionid=6F5FDF72AF4A95DE0FC9CF9EA65C1F52.f03t03?userIsAuthenticated=false&deniedAccessCustomisedMessage=)).
 
-%%<figure markdown style="float:left; width:30em;">
-  ![[../../assets/benjamin_TEDx.png|benjamin_TEDx.png]]
+<figure markdown style="float:left; width:30em;">
+  ![[benjamin_TEDx.png|benjamin_TEDx.png]]
   <figcaption>Video: Benjamin, R. Feb 5, 2015.
   From park bench to lab bench.
   What kind of future are we designing? TEDxBaltimore. YouTube.(21:25 min)  <a href="https://www.youtube.com/watch?v=_8RrX4hjCr0">Link</a></figcaption>
-</figure>%%
+</figure>
 
 Mark Greene, a bioethicist, returns to the principles of distributive and procedural justice in “To Restore Faith and Trust: Justice and Biological Access to Cellular Therapies.” According to Greene, biomedical therapies should be available to people of all ethnicities and, thus, diversifying the samples in biobanks is of high priority. By including under-represented minorities in the process of biospecimen collection (procedural justice through representation), the biobank can serve as a resource for medical therapies for this population (distributive justice through access). Greene offers a proposal for an ethnically weighted biobank created through additional public funding to support the health of under-represented minorities that can serve as a practical public expression of apology for past discrimination in health research ([Greene, 2006](http://www.jstor.org/discover/10.2307/3528598?uid=3739832&uid=2&uid=4&uid=3739256&sid=21103243586681)). Seema Mohapatra and Michelle Goodwin, who specialize in health law, also propose plans using incentives to encourage donations to biobanks ([Mohapatra, 2013](http://lawreview.colorado.edu/wp-content/uploads/2013/11/10.-Mohaptra_703_s.pdf); [Goodwin, 2007](http://ssrn.com/abstract=1660564); [Trotter, 2006](http://www.nejm.org/doi/full/10.1056/NEJMbkrev57035)). Their proposals are designed to address the lack of diversity in these banks, which reduce the chances of immunological matching of blood transplants that would disproportionately impact specific communities. Additionally, Goodwin presents these proposals as an alternative to existing unregulated markets for bodily goods ([Goodwin, 2007](http://ssrn.com/abstract=1660564)). Widdows and Cordell remind researchers that they must recognize the unique nature of each community and the goods that they provide. They warn researchers that to view community as a monolithic entity can lead to dangerous and unethical practices and a sense of distrust ([Widdows & Cordell, 2011](http://phe.oxfordjournals.org/content/4/1/14.abstract)). To provide guidance and expertise to communities and individuals that provide vital information and biological resources to these growing large- scale datasets, David and Richard Winikoff have proposed a “Charitable Trust Model” which is being adapted by some states and countries ([Winikoff & Winikoff, 2003](http://www.nejm.org/doi/full/10.1056/NEJMsb030036)). In this model the community and individuals within it, are expected to be dynamically involved in a tiered informed consent process and can influence the direction of research directly.
 
