@@ -28,7 +28,7 @@ Thus, an individual’s health is assessed using diagnostic tests that measure p
 Combining biomedical and social approaches to health aids in our understanding of disease, informs practices that prevent their occurrence, and addresses social discrimination associated with disability. Some of the earliest leaders of social medicine include Rudolph Virchow, an important figure in the history of cell biology, and Louis Pasteur, a pioneer in microbiology and communicable disease prevention ([Pridan, 1964](https://www.microbemagazine.org/index.php?option=com_content&view=article&id=2050:pasteurkoch-distinctive-ways-of-thinking-about-infectious-diseases&catid=502&Itemid=657); [Ullman, 2007](https://www.microbemagazine.org/index.php?option=com_content&view=article&id=2050:pasteurkoch-distinctive-ways-of-thinking-about-infectious-diseases&catid=502&Itemid=657)). Health policies associated with prevention of disease and disability include air pollution standards, laws regarding occupational workplace safety, guidelines for nutrition and exercise, and mass screenings using diagnostic medical tests.
 
 <figure markdown style="float:left; width:20em;">
-  ![slide 3.png](slide%203.png)
+  ![slide3.png](slide3.png)
   <figcaption>Bioecological Model</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ A socio-biomedical approach can also ameliorate the negative effects of living w
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); *[Slide 3: Bioecological Model](http://stemcellcurriculum.org/slidesets.html))*.
 
 <figure markdown style="float:right;width:20em;">
-  ![slide 4.png](slide%204.png)
+  ![slide4.png](slide4.png)
   <figcaption>Cell Signaling and Cell Fate</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Epigenetics also investigates local micro- environmental effects on cells, tissu
 Examples of the vital role that environmental factors have in human development include maternal factors in the womb that influence the developing embryo (Slide 5 & 6: Embryonic Development),  extracellular matrix (ECM) components responsible for wound repair (Slide 7 & 8: ECM and Making Body Parts) metabolic by-products that alter gene expression, and bacteria and viruses that live on, and in, our bodies influencing our physiology ([Fountain, 2012](http://www.nytimes.com/2012/09/17/health/research/human-muscle-regenerated-with-animal-help.html?src=recg)). This natural process of DNA reprogramming is what allows different cells in our body to possess the same genome but behave and act differently, depending on which regions of the genome are programmed to be active.
 
 <figure markdown style="width:30em;">
-  ![extracellular matrix.png](extracellular%20matrix.png)
+  ![extracellular-matrix.png](extracellular-matrix.png)
   <figcaption>Video: Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) <a href="http://www.nytimes.com/video/health/research/100000001773152/extracellular-matrix.html?action=click&contentCollection=health&module=embedded®ion=caption&pgtype=article">Link</a></figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Early studies in the 1950s sought to determine whether our genetic material or e
 Much of the early work on cancer was dependent on tissue samples and cell cultures established from clinical biopsies, collected without consent for research, thereby circumventing conversations about privacy, ownership, and compensation. In the post-WWII fervor to bring science into the open, attention was shifted from the Big Science Physics of the Manhattan Project to Big Science Biology supporting medical research.
 
 <figure markdown style="width:30em;">
-  ![Timeline 10Biomedical research.png](Timeline%2010Biomedical%20research.png)
+  ![Timeline10](Timeline10.md)
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline10: Biomedical Research</a></figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ The “War on Cancer” and the National Sickle Cell Act announced by President 
 The investment in biomedical research was not the only consequence of WWII. War tribunals revealed that unethical medical research was conducted on individuals who were declared “unfit” in the name of science. These research subjects included orphans, those living with disabilities, prisoners, and, in the case of Nazi Germany, many ethnic groups considered impure.
 
 <figure markdown style="width:30em;">
-  ![Timeline 0.png](Timeline%200.png)
+  ![Timeline0.png](Timeline0.png)
   <figcaption><a href="http://www.stemcellcurriculum.org/timelines.html">Timeline0: History of Human Subjects Research</a></figcaption>
 </figure>
 
@@ -100,9 +100,9 @@ These disembodied pieces of bodies, be they organs, eggs, embryos, genetic seque
 
 Some argue that this murky situation has led to the emergence of legitimized markets for biomaterial and cell therapies whose access is restricted to particular groups of privilege ([Greene, 2006](http://www.jstor.org/discover/10.2307/3528598?uid=3739832&uid=2&uid=4&uid=3739256&sid=21103243586681)). This is particularly problematic when biomaterial is acquired from persons who continue to be marginalized, or exploited, through a biomedical research model that does not uphold distributive or procedural justice ([Nelson, 2011](https://epay.newschool.edu/C21120_ustores/web/product_detail.jsp?PRODUCTID=5498&_ga=1.232712095.1200864493.1358260774); [Chamany, 2011](https://epay.newschool.edu/C21120_ustores/web/product_detail.jsp?PRODUCTID=5498&_ga=1.232712095.1200864493.1358260774); [Chamany, 2015](https://www.geneticsandsociety.org/biopolitical-times/new-rules-proposed-address-privacy-and-trust-precision-medicine-initiative)). Distributive justice refers to access to knowledge and therapies produced from biomedical research, while procedural justice refers to participation in the shaping of the direction of biomedical research as a human research subject, policy maker, or scientist. Critics of the biomedical model approach claim that this approach neglects the systemic and/or structural injustice that creates health inequities and by doing so, positions those on the downside of inequities as bioresources, exacerbating their exposure to health risk and reifying their risk status. Thus, a strictly biomedical approach to health inequity will maintain that the people who serve as sites of experimentation, or bodily goods, are the same people that will suffer from lack of access to drugs, technologies, and legal protections that could improve and protect their lives ([Shakespeare, 2002](https://www.um.es/discatif/PROYECTO_DISCATIF/Textos_discapacidad/00_Shakespeare2.pdf); [Goodwin, 2007](http://ssrn.com/abstract=1660564); [Washington, 2006](https://books.google.com/books/about/Medical_Apartheid.html?id=4ZmJvC3f-m0C); [Democracy Now, 2010](http://www.democracynow.org/2007/1/19/medical_apartheid_the_dark_history_of); [Benjamin, 2013](http://www.ruhabenjamin.com/peoples-science/); [Benjamin, 2014](http://onlinelibrary.wiley.com/doi/10.1111/soc4.12167/abstract;jsessionid=6F5FDF72AF4A95DE0FC9CF9EA65C1F52.f03t03?userIsAuthenticated=false&deniedAccessCustomisedMessage=)).
 
-<figure markdown style="float:left; width:30em;">
+<figure markdown style="float:left; width:25em;">
   ![benjamin_TEDx.png](benjamin_TEDx.png)
-  <figcaption>Video: Benjamin, R. Feb 5, 2015.
+  <figcaption>Video: Benjamin, R. Feb 5, 2015. \n
   From park bench to lab bench.
   What kind of future are we designing? TEDxBaltimore. YouTube.(21:25 min)  <a href="https://www.youtube.com/watch?v=_8RrX4hjCr0">Link</a></figcaption>
 </figure>
@@ -129,14 +129,14 @@ This focus on informed consent is central to the film adaptation of Skloot’s b
 The collection of tissues and cells inevitably means that DNA is also collected, the latter of which can be used to identify the origin of the material. When Lars Steinmetz and colleagues at the European Molecular Biology Laboratory in Heidelberg Germany published the genomic sequence of the HeLa cell line online for the first time, some in the scientific community raised concerns about privacy because permission to publish the sequence was not secured from the Lacks family ([Brainard 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING); [Callaway, 2013a](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING); [Skloot, 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING); [Hudson and Collins, 2013](http://www.nature.com/nature/journal/v500/n7461/full/500141a.html?WT.ec_id=EMI_NATURE_1308_NATURENEWSBREAKING)).
 
 <figure markdown style="width:30em;">
-  ![Sparkman 2013.png](Sparkman%202013.png)
+  ![Sparkman2013.png](Sparkman2013.png)
   <figcaption>Video: Sparkman, S. 2013. The HeLa Cell Genome Published, Causes Privacy Controversy. Newsy. Dailymotion <a href="http://www.dailymotion.com/video/xykeuq_hela-cell-genome-published-causes-privacy-controversy_news">Timeline10: Biomedical Research</a></figcaption>
 </figure>
 
 Following publication of this genomic sequence, two researchers were able to identify the source of the cell line using information from recreational genealogy databases. This alarming chain of events highlights the need not only for informed consent, but also, de-identifying mechanisms that protect the identities of donors and biospecimen providers ([Hayden, 2013a](http://www.nature.com/news/privacy-protections-the-genome-hacker-1.12940); [Hayden, 2013b](http://www.nature.com/news/privacy-loophole-found-in-genetic-databases-1.12237)). In 2013, as another research team prepared to release more data on the HeLa genome, Francis Collins, director of the NIH, saw an opportunity to involve the Lacks family in shaping the protocols for scientific access to genomic data entered into the Genotypes and Phenotypes Database on a case-by-case basis ([Callaway, 2013b](http://www.nature.com/news/deal-done-over-hela-cell-line-1.13511)). That two members of the Lacks family now participate as members on the “HeLa Genome Data Access” working group may be viewed by some as a move in the right direction, but there are concerns that this sort of personal gate-keeping may prove challenging ([Chamany, 2015](https://www.geneticsandsociety.org/biopolitical-times/new-rules-proposed-address-privacy-and-trust-precision-medicine-initiative)). This approach is in stark contrast to prior decisions made by institutional review boards (IRBs) that dissuaded clinicians from placing research directives in the hands of patients or providing acknowledgement or compensation to their family members ([Troug et al., 2012](http://www.sciencemag.org/content/337/6090/37)).
 
 <figure markdown style="float:left; width:30em;">
-  ![Picht 2013.png](Picht%202013.png)
+  ![Picht2013.png](Picht2013.png)
   <figcaption>Video. Picht, M. Aug 7, 2013. Henrietta Lacks’ Family Finally Gets Say in Genome Research. Newsy Dailymotion. (2:47 min) <a href="http://www.dailymotion.com/video/x12uf1k_henrietta-lacks-family-finally-gets-say-in-genome-research_news">Link</a></figcaption>
 </figure>
 
