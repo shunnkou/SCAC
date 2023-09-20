@@ -168,8 +168,10 @@ It is precisely these states of disease and disability that the field of stem ce
 
 In the short presentation below, Elizabeth Yeampierre, of the community-based environmental justice non-profit UPROSE, emphasizes the need for researchers to be mindful of the health and environmental injustice that has its origins in colonization, oppression, and slavery. This presentation was one of many hosted by the NIH Workshop to Explore the Ethical, Legal, and Social Implications (ELSI) of Citizen Science, designed to inform the US Privacy and Trust Principles that accompany the changes to the Common Rule regulating the use of human research subjects and biospecimens.
 
-<mark style="background: #FFF3A3A6;">Video: Yeampierre, E. Session 2: Building the Relationship: Citizen and Community Engagement. NIH Workshop to Explore the Ethical, Legal, and Social Implications (ELSI) of Citizen Science. [Link](https://www.youtube.com/watch?v=kCF6dIDcx0k). (10:31min)</mark>
-
+<figure markdown style="width:30em;">
+  <a href="https://www.youtube.com/watch?v=kCF6dIDcx0k">![Yeampierre.png](Yeampierre.png)</a>
+  <figcaption>Video: Yeampierre, E. Session 2: Building the Relationship: Citizen and Community Engagement. NIH Workshop to Explore the Ethical, Legal, and Social Implications (ELSI) of Citizen Science. <a href="https://www.youtube.com/watch?v=kCF6dIDcx0k">Link (10:31min)</a></figcaption>
+</figure>
 
 
 %%___
