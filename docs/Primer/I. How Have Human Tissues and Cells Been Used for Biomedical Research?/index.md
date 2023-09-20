@@ -103,7 +103,7 @@ Some argue that this murky situation has led to the emergence of legitimized mar
 
 <figure markdown style="float:left; width:25em;">
   <a href=https://www.youtube.com/watch?v=_8RrX4hjCr0>
-  ![Ch1_benjamin_TEDx.png](Ch1_benjamin_TEDx.png)</a>
+   ![Ch1_benjamin_TEDx_new.png](Ch1_benjamin_TEDx_new.png)</a>
   <figcaption>Video: Benjamin, R. Feb 5, 2015. \n
   From park bench to lab bench.
   What kind of future are we designing? TEDxBaltimore. YouTube.(21:25 min)  <a href="https://www.youtube.com/watch?v=_8RrX4hjCr0">Link</a></figcaption>
