@@ -32,6 +32,8 @@ Combining biomedical and social approaches to health aids in our understanding o
   <figcaption>Bioecological Model</figcaption>
 </figure>
 
+%%[slide3.png](slide3.png)%%
+
 A socio-biomedical approach can also ameliorate the negative effects of living with disease and disability through the development of biomedical therapies, assisted devices/technologies, and the creation of inclusive environments that accommodate variance in ability such as the installation of ramps and the incorporation of sign language. A healthy individual is then defined as one that has the “ability to adapt” to a changing environment, and a healthy environment is one designed to support the life activities of individuals with a diverse range of abilities. This history and approach is succinctly summarized in the Lancet editorial titled “What is health;The ability to adapt” ([Anonymous, 2009](http://www.thelancet.com/journals/lancet/article/PIIS0140673609604566/fulltext?rss=yes)).
 
 The field of epigenetics bridges the medical and the social models of health by clarifying the molecular mechanisms involved in responding to the macro-scale environment in which we live ([Bronfenbrenner, 1979](http://books.google.com/books/about/THE_ECOLOGY_OF_HUMAN_DEVELOPMENT.html?id=OCmbzWka6xUC); [Kubicek & Tolpa Studios, 2011](http://images.the-scientist.com/content/images/articles/58007/epigenetics_primer.jpg); *[Slide 3: Bioecological Model](http://stemcellcurriculum.org/slidesets.html))*.
