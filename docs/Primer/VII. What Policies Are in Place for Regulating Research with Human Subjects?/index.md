@@ -12,4 +12,4 @@ Advances in science and technology, and an increasingly complex network of stake
 %%
 ___
 
-# [[./VII-1 Nuremberg and the Declaration of Helsinki|Next Section]] ![[../../assets/turn-right.png|40]]{ width='25' }%%
+# [Next Section](VII-1%20Nuremberg%20and%20the%20Declaration%20of%20Helsinki.md) ![40](turn-right.png){ width='25' }%%
