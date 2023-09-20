@@ -16,6 +16,13 @@ Cells are defined as the smallest functional biological unit of all organisms, c
 
 A commonality to all cells is the chemical composition of carbon, nitrogen, oxygen, hydrogen, phosphorous and sulphur. These chemical units can organize to form water, among other compounds, which makes up 70-90% of the total cell volume. These chemical units are also organized into larger molecular polymers that have specific forms and functions, called macromolecules.
 
+<br>
+
+<br>
+
+<br>
+
+
 
 # There are four types of macromolecules (lipids, nucleic acids, proteins, and sugars).
 
