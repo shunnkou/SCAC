@@ -81,7 +81,7 @@ In the United States (US), the response was the publication of “Science The En
 
 Riding the wave of success in the development of antibiotics and vaccines to address infectious diseases, a national pride emerged with many citizens seeing their contribution as part of the larger social good. Soon after Bush’s proposal was presented, the National Science Foundation (NSF) and the National Institutes of Health (NIH) alongside increased funding for biomedicine, led to developments in cell biology, immunology, and genetics, with the dual aim of maintaining a healthy workforce and creating marketable products. These developments were then touted in campaigns to stimulate public interest in continued investment and expansion of this emerging field. The success of the international smallpox vaccine campaign spurred other large-scale efforts. Around the same time that smallpox was eradicated, Mary Lasker, a philanthropist and activist for biomedical research, propelled the first large-scale studies to address cancer, what was then considered an epidemic without a cause.
 
-<figure markdown style="width:30em;">
+<figure markdown style="float:right; width:30em;">
   <a href="http://www.retroreport.org/video/the-long-war-on-cancer/">![retroreport_nixon.png](retroreport_nixon.png)</a>
   <figcaption>Video: Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). <a href="http://www.retroreport.org/video/the-long-war-on-cancer/">Link</a></figcaption>
 </figure>
@@ -133,7 +133,7 @@ The collection of tissues and cells inevitably means that DNA is also collected,
 
 <figure markdown style="width:30em;">
   <a href=http://www.dailymotion.com/video/xykeuq_hela-cell-genome-published-causes-privacy-controversy_news>
-  ![Sparkman2013.png](Sparkman2013.png)</a>
+  ![Sparkman 2013.png](Sparkman%202013.png)</a>
   <figcaption>Video: Sparkman, S. 2013. The HeLa Cell Genome Published, Causes Privacy Controversy. Newsy. Dailymotion <a href="http://www.dailymotion.com/video/xykeuq_hela-cell-genome-published-causes-privacy-controversy_news">Link</a></figcaption>
 </figure>
 
