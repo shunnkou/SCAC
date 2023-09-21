@@ -6,6 +6,8 @@ fix_heading: true
 In 1951, cervical cancer cells from Henrietta Lacks, an African-American woman being treated in the “colored” ward of Johns Hopkins Hospital in Baltimore, were the first grown outside the human body in a Petri dish. This is the most widely used cell culture in biomedical research yet, for decades, her family was marginalized by the very health care system that her cells support. Now, many years later, the biomedical research community is revisiting the story of Henrietta Lacks, the establishment of the HeLa cell line, and the role of community in biomedical research studies. What lessons can be learned from this case? Can we challenge the normative assumptions surrounding biomedical research to support more just and informed participation in shaping healthcare practices and policies? What roles can individuals and communities play in directing research that serves their needs?
 
 !!! note inline end
+	<mark style="background: #FFF3A3A6;">Note that the yellow highlighted areas refer to media or the accompanying HeLa Primer PPT.</mark>
+	<mark style="background: #FFB8EBA6;">Note that the pink hightlights refer to the infographics available on the SCAC website</mark>
 	*Bracketed references in italics throughout the text refer to the HeLa Primer Powerpoint, and are linked to the SCAC website where that Powerpoint can be downloaded.*
 
 This primer addresses these questions through an historical overview of biomedical research and an exploration of contemporary practices and policies surrounding research with human subjects to advance basic scientific knowledge and biomedicine.
