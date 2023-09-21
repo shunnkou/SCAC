@@ -139,8 +139,10 @@ The collection of tissues and cells inevitably means that DNA is also collected,
 
 Following publication of this genomic sequence, two researchers were able to identify the source of the cell line using information from recreational genealogy databases. This alarming chain of events highlights the need not only for informed consent, but also, de-identifying mechanisms that protect the identities of donors and biospecimen providers ([Hayden, 2013a](http://www.nature.com/news/privacy-protections-the-genome-hacker-1.12940); [Hayden, 2013b](http://www.nature.com/news/privacy-loophole-found-in-genetic-databases-1.12237)). In 2013, as another research team prepared to release more data on the HeLa genome, Francis Collins, director of the NIH, saw an opportunity to involve the Lacks family in shaping the protocols for scientific access to genomic data entered into the Genotypes and Phenotypes Database on a case-by-case basis ([Callaway, 2013b](http://www.nature.com/news/deal-done-over-hela-cell-line-1.13511)). That two members of the Lacks family now participate as members on the “HeLa Genome Data Access” working group may be viewed by some as a move in the right direction, but there are concerns that this sort of personal gate-keeping may prove challenging ([Chamany, 2015](https://www.geneticsandsociety.org/biopolitical-times/new-rules-proposed-address-privacy-and-trust-precision-medicine-initiative)). This approach is in stark contrast to prior decisions made by institutional review boards (IRBs) that dissuaded clinicians from placing research directives in the hands of patients or providing acknowledgement or compensation to their family members ([Troug et al., 2012](http://www.sciencemag.org/content/337/6090/37)).
 
-<figure markdown style="float:left; width:30em;">
-  <a padding-right="50em" href=http://www.dailymotion.com/video/x12uf1k_henrietta-lacks-family-finally-gets-say-in-genome-research_news>
+
+
+<figure markdown style="float:left; width:20em;">
+  <a href=http://www.dailymotion.com/video/x12uf1k_henrietta-lacks-family-finally-gets-say-in-genome-research_news>
   ![Picht2013.png](Picht2013.png)</a>
   <figcaption>Video. Picht, M. Aug 7, 2013. Henrietta Lacks’ Family Finally Gets Say in Genome Research. Newsy Dailymotion. (2:47 min) <a href="http://www.dailymotion.com/video/x12uf1k_henrietta-lacks-family-finally-gets-say-in-genome-research_news">Link</a></figcaption>
 </figure>
