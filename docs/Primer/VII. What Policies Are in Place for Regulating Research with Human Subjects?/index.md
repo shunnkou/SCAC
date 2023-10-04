@@ -7,9 +7,3 @@ aliases:
   - Section VII
 ---
 Advances in science and technology, and an increasingly complex network of stakeholders, have led to a range of national responses to the international call for ethical biomedical research. Countries have operationalized and expanded the directive of the Declaration of Helsinki in various ways. In most cases, the establishment of regulatory bodies and rules was in response to news that unethical practices had occurred.
-
-
-%%
-___
-
-# [Next Section](VII-1%20Nuremberg%20and%20the%20Declaration%20of%20Helsinki.md) ![40](turn-right.png){ width='25' }%%
