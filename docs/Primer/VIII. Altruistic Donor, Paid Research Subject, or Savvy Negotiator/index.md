@@ -30,10 +30,12 @@ In the second commonly used case, Ted Slavin, a Hepatitis B patient, took steps 
 
 Though Moore and Slavin acted individually to shake up the status quo, by participating in the structures and systems that are in place to negotiate such terrain, race scholar Ruha Benjamin reminds us that some populations are choosing a different tactic, that of “organized ambivalence” (<mark style="background: #ADCCFFA6;">Benjamin, 2011</mark>). Her ethnographic work on stem cell therapies in communities that are disproportionately affected by sickle cell anemia suggests a need for community rather than individual actions, because
 
-> “ambivalence-in-action [is] structured by three contextual strands: therapeutic uncertainties of the clinic, institutionalized conflation of healthcare and medical research, and political contests over scientific and medical investments.” (<mark style="background: #ADCCFFA6;">Benjamin, 2011</mark>)
+> [!quote] (<mark style="background: #ADCCFFA6;">Benjamin, 2011</mark>)
+> “ambivalence-in-action [is] structured by three contextual strands: therapeutic uncertainties of the clinic, institutionalized conflation of healthcare and medical research, and political contests over scientific and medical investments.”
 
-She posits that
+She posits that:
 
-> “organized ambivalence is an analytic alternative to individualized notions of distrust and as a framework for implementing more participatory research initiatives that better account for the multiple uncertainties characteristic of regenerative medicine.” (<mark style="background: #ADCCFFA6;">Benjamin, 2011</mark>)
+> [!quote] (<mark style="background: #ADCCFFA6;">Benjamin, 2011</mark>)
+> “organized ambivalence is an analytic alternative to individualized notions of distrust and as a framework for implementing more participatory research initiatives that better account for the multiple uncertainties characteristic of regenerative medicine.” 
 
 Because Benjamin’s work emerges from her focus on stem cell research in California, a flurry of editorials and academic papers have proposed revisiting payments for research subjects, or donors, to incentivize participation and donation within the context of stem cell therapies and research (<mark style="background: #ADCCFFA6;">VanderWalde & Kurzban, 2011; Truog, 2012; Kominers & Becker, 2012; Hayflick, 2013</mark>). This is particularly true for those human tissues and cells that are capable of regeneration, or normally discarded as medical waste, such as umbilical cord blood. Mohapatra has highlighted the lack of altruistic donation for umbilical cord blood to public stem cell banks and has proposed that incentives such as tax credits, or reduced medical costs, be put in place to incentivize donations, especially in light of the lack of diversity in current cord blood units (<mark style="background: #ADCCFFA6;">Mohapatra, 2013</mark>). Most recently, Nicola Lacetera and others provided data to refute the notion that non-cash incentives decrease altruistic donation or reduce the quality of samples (<mark style="background: #ADCCFFA6;">Lacetera et.al, 2013 podcast</mark>).
