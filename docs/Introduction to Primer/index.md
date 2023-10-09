@@ -4,6 +4,7 @@ strip_comments: true
 fix_heading: true
 title: Introduction to Primer
 ---
+
 In 1951, cervical cancer cells from Henrietta Lacks, an African-American woman being treated in the “colored” ward of Johns Hopkins Hospital in Baltimore, were the first grown outside the human body in a Petri dish. This is the most widely used cell culture in biomedical research yet, for decades, her family was marginalized by the very health care system that her cells support. Now, many years later, the biomedical research community is revisiting the story of Henrietta Lacks, the establishment of the HeLa cell line, and the role of community in biomedical research studies. What lessons can be learned from this case? Can we challenge the normative assumptions surrounding biomedical research to support more just and informed participation in shaping healthcare practices and policies? What roles can individuals and communities play in directing research that serves their needs?
 
 !!! note inline end
