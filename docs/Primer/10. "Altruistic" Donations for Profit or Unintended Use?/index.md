@@ -2,7 +2,7 @@
 share: true
 strip_comments: true
 fix_heading: true
-title: X. "Altruistic" Donations for Profit or Unintended Use?
+title: 10. "Altruistic" Donations for Profit or Unintended Use?
 aliases:
   - Section X
 ---

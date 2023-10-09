@@ -2,7 +2,7 @@
 share: true
 strip_comments: true
 fix_heading: true
-title: VII. What Policies Are in Place for Regulating Research with Human Subjects?
+title: 7. What Policies Are in Place for Regulating Research with Human Subjects?
 aliases:
   - Section VII
 ---
