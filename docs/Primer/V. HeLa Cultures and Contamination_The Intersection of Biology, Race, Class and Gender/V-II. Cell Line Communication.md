@@ -4,6 +4,7 @@ strip_comments: true
 fix_heading: true
 aliases:
   - Cell Line Communication
+title: Cell Line Communication
 ---
 Undergirding the exciting discoveries and innovation that accompanied the development of cell culture techniques is one of the most challenging issues plaguing biologists over the past 50 years, namely cell line contamination. Because a cell line is defined as a collection of cultured cells derived from one specific tissue in a single donor, its provenance is of importance. While the ability to divide indefinitely is certainly the most essential quality of a cell line, the specificity of the cells’ origin from a single tissue type and from a single donor is a crucial aspect of the research conducted using this tool. For example, a potential stomach cancer drug would need to be tested specifically on human stomach cancer cells, not lung or other tissue origins. Similarly, for stem cell transplant therapies, most often the donor and the recipient should be one and the same, to reduce graft rejection due to immune incompatibility. In these instances, cross-contamination of cell lines (where a more aggressive cell line take over the culture) becomes an issue, as the validity of the study or the efficacy of transplant therapy depends on knowing the very specific origin of the cells (<mark style="background: #ADCCFFA6;">Masters, 2002</mark>).
 
