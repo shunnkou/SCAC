@@ -43,8 +43,32 @@ Moreover, with biobanking, the line between the public and private sector is bec
 
 <mark style="background: #FFF3A3A6;">Video :Cord Blood: Banking and Uses. StemCellChannel.National Stem Cell Foundation of Australia. (7 min). Link</mark>
 
-Adult.Adult Cell Source. Blood Stem Cells.
+<mark style="background: #FFB8EBA6;">Adult.Adult Cell Source. Blood Stem Cells.</mark>
 
-Though many individuals are volunteering to donate umbilical cord blood, many private companies offer banking services that restrict access to family members. These companies charge approximately $1500 for collection and annual fees approximating $150 for storage. The standards for cord blood that enters the national or international public registries is much higher than that of the private family banks. Thus, though there are many donations, only 10% proves suitable for inclusion in these public banks based on criteria that involves counting the blood stem cell count (Petrini, 2014).
+Though many individuals are volunteering to donate umbilical cord blood, many private companies offer banking services that restrict access to family members. These companies charge approximately $1500 for collection and annual fees approximating $150 for storage. The standards for cord blood that enters the national or international public registries is much higher than that of the private family banks. Thus, though there are many donations, only 10% proves suitable for inclusion in these public banks based on criteria that involves counting the blood stem cell count (<mark style="background: #ADCCFFA6;">Petrini, 2014</mark>).
 
-What becomes of the unsuitable donations should be of interest to altruistic donors. Often these units are used to derive platelet gel that can be sold for profit. Platelet gel is used to accelerate repair of cutaneous and bone tissue. Additionally, though the US national cord blood bank is subsidized by government grants and private donations, a good amount of the financial support comes in the forms of payments made by other banks in exchange for blood units of rare HLA types. In other words, an international trade market has emerged for blood units (Petrini, 2014)
+What becomes of the unsuitable donations should be of interest to altruistic donors. Often these units are used to derive platelet gel that can be sold for profit. Platelet gel is used to accelerate repair of cutaneous and bone tissue. Additionally, though the US national cord blood bank is subsidized by government grants and private donations, a good amount of the financial support comes in the forms of payments made by other banks in exchange for blood units of rare HLA types. In other words, an international trade market has emerged for blood units (<mark style="background: #ADCCFFA6;">Petrini, 2014</mark>).
+
+# Milk Banks for Profit
+
+A similar altruistic based profit making mechanism is in place for breast milk banks. Prolacta is one of the most lucrative companies to capitalize on such a model. Prolacta solicits volunteer donations for breast milk, but then uses this milk as base material to create a fortified product that they sell to hospitals to support neonatal health for those babies in critical care. When asked why they don’t compensate donors, Prolacta echoes the same rationale used by those that oppose the use of incentives for blood donation, namely that compensation would lower the quality of the pool, as it might attract unfavorable donors desperate for financial support (<mark style="background: #ADCCFFA6;">Dutton, 2011</mark>).
+
+<mark style="background: #FFF3A3A6;">Podcast: Rogers, A. June 2011 Podcast. Breast Milk. Storyboard. (19:41min) Link</mark>
+
+Originally, the Prolacta website was not forthcoming about its tactics, however, with media coverage, the company has had to explain their policies and practices to potential donors by placing these practices in the FAQ. More recently, they moved this information up in the FAQ after an investigative story revealed the concern of some donors who felt the company should be more forthright (<mark style="background: #ADCCFFA6;">Givens & Glorioso, 2013</mark>).
+
+<mark style="background: #FFF3A3A6;">Video: Givens, A. & Glorioso C. Nov 15, 2013. I-Team: Donated Breast Milk Is Often Sold for Profit. (4:09min) Link</mark>
+
+# Cadaver Tissue for Profit
+
+In addition to the commercialization of human fluids such as blood and breast milk, human tissues collected from cadavers for research and life saving treatments are in scarce supply due to demand emerging from pharmaceutical and regenerative medicine companies. As the case of Henrietta Lacks has revealed, people expect transparency with respect to how bodily tissues are going to be used. This is particularly true for those communities experiencing economic hardship, which ultimately leads to disproportionate health burdens.
+
+> [!quote] (<mark style="background: #ADCCFFA6;">Pirnay et al., 2015, p559</mark>)
+> “This situation has created tension between the altruistic principles of hospital tissue banks and industry’s profit-oriented principles. Meanwhile, industry lobbying and the political desire to promote the growth of biotechnology markets and jobs have led to increasingly business-oriented legislation controlling human tissue handling ... This shift has now gone so far that in some legislations, the risk arises that the interests of industry could take precedence over the interests of patients and research.” 
+
+Perhaps most startling is that the industry push is coming from companies that provide resources for non- essential tissue transplants used in cosmetic surgery.
+
+> [!quote] (<mark style="background: #ADCCFFA6;">Pirnay et al., 2015, p 561</mark>)
+> “In addition, some companies in the tissue engineering field cater to cosmetics rather than medical products. A striking example is the processing of human skin, the gold standard for the treatment of severe burns, into cosmetic products without medical indication, such as penis widening or lip enhancements, which fetch much higher prices than analogues for burn treatments. US burn centres were reportedly struggling to obtain skin because local tissue banks are committing all their donated skin to firms that market products for plastic and cosmetic surgery.”
+
+Clearly, as technology and science advance so, too, will the ethical oversight regarding biospecimens and human subjects. Informed policy making will require an interdisciplinary approach that attempts to anticipate which communities and individuals are in need of protections, and how the right to health can be achieved in ways that promote scientific innovation as well as health and economic equity (<mark style="background: #ADCCFFA6;">Arias et al., 2015</mark>).
