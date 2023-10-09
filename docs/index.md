@@ -4,7 +4,6 @@ strip_comments: true
 fix_heading: true
 title: Frontmatter
 ---
-
 This primer is part of the Stem Cells Across the Curriculum project and is in the Creative Commons (insert logo from our permissions page along with the infographics, slide sets, and figures which are hyperlinked to this document). Please see below for permissions and acknowledgements for usage.
 
 This document should be cited in the following manner:  
@@ -16,7 +15,6 @@ Chamany, K. Jan 2016. HeLa Cells & HPV Genes: Immortality & Cancer. *In Stem Cel
 *Stem Cells Across the Curriculum (SCAC)* is a product of collaboration and, thus, intellectual property rights (including, but not limited to, all trademarks and copyright) in relation to the Website and its content are those of the individual Development Team Members. As there are many components to our resource collection, permissions for use of each component are not universal and users must abide by the specific permissions for each resource as outlined below and attribute specific members of the SCAC Development Team as noted on the specific resource.
 
 All SCAC materials are intended solely for educational, not-for-profit use. All SCAC materials, with the exception of “They Called Me HeLa”, are licensed under the Creative Commons Attribution-Noncommercial- ShareAlike License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
-
 
 “They Called Me HeLa” slide show is licensed under the Creative Commons Attribution-Noncommercial-Non Derivative License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/3.0/ !
 
