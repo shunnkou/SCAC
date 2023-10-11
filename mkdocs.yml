@@ -146,22 +146,10 @@ extra:
     fix_heading: true
 
 # Page Tree
-#nav:
-#    - Table of Contents:
-#      - index.md
-#      - Chapter 1:
-#        - Section 1: Table of Contents/Chapter 1/1_Section 1.md
-#        - Section 2: Table of Contents/Chapter 1/1_Section 2.md
-#        - Section 3: Table of Contents/Chapter 1/1_Section 3.md
-#        - Section 4: Table of Contents/Chapter 1/1_Section 4.md
-#        - Section 5: Table of Contents/Chapter 1/1_Section 5.md
-#      - Chapter 2:
-#        - Section 1: Table of Contents/Chapter 2/2_Section 1.md
-#        - Section 2: Table of Contents/Chapter 2/2_Section 2.md
-#        - Section 3: Table of Contents/Chapter 2/2_Section 3.md
-#      - Chapter 3: 
-#        - Section 1: Table of Contents/Chapter 3/3_Section 1.md
-#        - Section 2: Table of Contents/Chapter 3/3_Section 2.md
-#        - Section 3: Table of Contents/Chapter 3/3_Section 3.md
-#    - Tags: tags.md
-#    - Credits: credits.md
+nav:
+    - Frontmatter: index.md
+    - Introduction to Primer: Introduction to Primer.md
+    - Primer:
+      - 1. How Have Human Tissues and Cells Been Used for Biomedical Research?:
+          - Primer/1. How Have Human Tissues and Cells Been Used for Biomedical Research?/1. How Have Human Tissues and Cells Been Used for Biomedical Research?.md
+      - 2. What Is A Cell? What is Cell Research?:
