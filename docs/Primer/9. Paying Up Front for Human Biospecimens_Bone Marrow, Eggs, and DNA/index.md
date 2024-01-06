@@ -6,6 +6,7 @@ title: "9. Paying Up Front for Human Tissue: Bone Marrow, Eggs, and DNA"
 aliases:
   - Section IX
 ---
+
 # Bone marrow: Flynn v. Holder
 
 Given a capitalist culture where everything can be commodified and corporations can act as individuals (<mark style="background: #ADCCFFA6;">Citizens United v. Federal Election Commission</mark>), it is paradoxical that the US federal government allows for the barter and sale of gametes (egg and sperm), yet, does not support the compensation of bone marrow  donations designed to diversify existing bone marrow stem cell banks (Flynn v. Holder). The National Organ Transplant Act of 1984 (<mark style="background: #ADCCFFA6;">NOTA</mark>) “prohibits the transfer of any human organ for valuable consideration for use in a human transplantation if the transfer affects interstate commerce.” However, this act does not prohibit the sale of bodily reproductive tissue such as eggs and sperm, which is left to the private sector and market-driven economy.
