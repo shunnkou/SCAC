@@ -6,6 +6,7 @@ title: 10. "Altruistic" Donations for Profit or Unintended Use?
 aliases:
   - Section X
 ---
+
 Even in situations where human tissue, cells, or DNA are donated, ethical issues of control over their use whether for research, or profit, are increasingly placing pressure on the “informed consent” process. In many cases the donor is completely unaware of how their tissues or DNA may be used. This is best illustrated in the case of the Havasupai Native American DNA study. The Havasupai reside on a reservation in the state of Arizona, and experience disproportionate rates of diabetes and other metabolic disorders. Many of their health challenges are thought to arise from policies regarding water and land use on the reservation that have negative consequences for the Havasupai diet and physical activity. Although the Havasupai “donated” their DNA samples, they did so with the express interest of learning more about the community’s propensity toward diabetes, making the donation part of an exchange of valued goods.
 
 # DNA Biobanking: Havasupai v. University of Arizona

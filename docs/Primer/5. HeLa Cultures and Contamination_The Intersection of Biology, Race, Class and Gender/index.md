@@ -6,6 +6,7 @@ aliases:
   - Section V
 title: "5. HeLa Cultures and Contamination: The Intersection of Biology, Race, Class, and Gender"
 ---
+
 # Cell Culture and Cell Banks
 
 Today, thousands of cell lines have been established using refined methods of tissue culture. The first human cell lines, much like HeLa in 1951, were established by placing freshly removed human tissue in a growth medium containing animal cells, or human fetal cells. These “feeder” cells provide the newly transplanted cells with the appropriate growth factors and extracellular matrix (ECM) to establish the environmental conditions necessary to sustain growth for this new cell lineage, or cell line.o promote cell viability, cell lines must be incubated at the right temperature, humidity, and CO2 levels. The cell lines are maintained by human researchers who “split the cells” daily. Splitting involves washing the cells and reducing their numbers by distributing (splitting them up) them over numerous Petri dishes. This process of splitting removes waste, dead cells, excess cells, and old culture media and provides cells with fresh media containing growth factors and adequate space to ensure continued cell division (<mark style="background: #FFF3A3A6;">Slide 29: What is Cell Culture</mark>).

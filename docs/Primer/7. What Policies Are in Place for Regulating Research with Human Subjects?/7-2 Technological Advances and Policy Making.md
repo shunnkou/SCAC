@@ -4,6 +4,7 @@ strip_comments: true
 fix_heading: true
 title: Technological Advances and Policy Making
 ---
+
 In many countries, the interpretation of human subject ethics in the context of generating national biobanks presents new challenges.
 
 Iceland’s deCode, a company purchased by Amgen, has come under fire for a study that seeks to triangulate data from human research volunteers, genomic databases, and family members’ medical records. This is the second time that Kari Stefansson, founder of deCode, has run into problems when creating a “work-around” for informed consent as it relates to population studies. The Icelandic Data Protection Agency (DPA), ruled that the company must first obtain informed consent from each individual to be studied, and that health records can be not be treated as publicly available information (<mark style="background: #ADCCFFA6;">Kasier, 2013</mark>).

@@ -6,6 +6,7 @@ title: 3. How Does Tissue Culture Technology Contribute to Steam Cell Research (
 aliases:
   - Section III
 ---
+
 # History of Cell Culture
 
 Cell culture techniques began in the 1800s, but the ability to keep a cell alive in culture was the accomplishment of Ross Harrison, who in 1907 cultured a nerve cell for several weeks using the “hanging drop method.” Over the next forty years a number of inventions and discoveries led to further advances in cell culture. Thomas Montrose Burrows discovered the medium of chicken embryo plasma clots as being essential for propagation of cells in culture, and coined the term “tissue culture,” Alexis Carrel was the first to establish sterile technique for cell purity, George Gey in 1933 was the first to invent the cell culture roller, which provided adequate air flow, and Wilton Earle in 1943 established the first continuously growing culture of mammalian cells, and later established the first clonal mouse immortalized cells, known as the L cell line ([Maienschein, 2005](http://www.amazon.com/Whose-View-Life-Embryos-Cloning/dp/0674017668)). (<mark style="background: #FFF3A3A6;">[Slide 27: Be Still My Beating Heart](http://stemcellcurriculum.org/slidesets.html)</mark>)
