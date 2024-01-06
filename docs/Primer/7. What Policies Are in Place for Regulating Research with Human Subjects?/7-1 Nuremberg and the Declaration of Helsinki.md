@@ -5,6 +5,7 @@ fix_heading: true
 title: |
   Nuremberg and the Declaration of Helsinki
 ---
+
 During WWII, Nazi Germany industrialized medical research, using prisoners as test subjects. Their practices extended to the most marginalized and persecuted, and included orphans, the mentally ill, and those of ethnicities deemed unfit by their ideology. The uncovering of these practices led to an international effort to curtail harms to those captured during war, but also extended protections more generally to all medical research subjects. A brief overview of the history leading to policy and practice regarding human research subjects is outlined below.
 
 > [!summary]+ Overview
