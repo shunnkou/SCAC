@@ -5,7 +5,9 @@ fix_heading: true
 title: 1. How Have Human Tissues and Cells Been Used for Biomedical Research?
 aliases:
   - Section I
+weight: "1"
 ---
+
 # Biomedical research, or experimental medicine, is a combination of basic and applied research done in the interest of promoting a healthy population.
 
 The World Health Organization’s (WHO) definition, issued in 1946, implied a normative connotation when describing “healthy” as a “state of complete physical, mental, and social well being” ([WHO, 1946](http://www.who.int/governance/eb/who_constitution_en.pdf)). Later definitions continued to reference “the absence of disease or infirmity” as an indicator of a healthy state, thereby relegating people living with disease and disability to an “unhealthy” category. Using these definitions, one can only be part of a healthy population if their disease/disability is treated, or cured, which first requires diagnosis.

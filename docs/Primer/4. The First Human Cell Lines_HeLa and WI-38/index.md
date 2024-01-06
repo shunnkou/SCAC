@@ -5,7 +5,9 @@ fix_heading: true
 title: "4. The First Human Cell Lines: HeLa and WI-38"
 aliases:
   - Section IV
+weight: 3
 ---
+
 It should come as no surprise that, given their proclivity for rapid cell division, both cancer cells and fetal stem cells served as excellent starting materials to establish the first human cell lines used in biomedical research.
 
 # Derivation, Dissemination, Ownership, Privacy, and Profit
