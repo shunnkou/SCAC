@@ -6,6 +6,7 @@ aliases:
   - Section VI
 title: "6. Cervical Cancer, HPV and TERC: Prevalence and Diagnostics"
 ---
+
 Cervical cancer is a cancer of tissue from the cervix, an organ that connects the vagina to the uterus or “womb”, and is the second-most common cancer for women of reproductive age, disproportionately affecting those with inadequate access to healthcare. There are approximately 530,000 cases of cervical cancer each year, half of which result in death and 98% of which occur in resource-poor settings. Harald zur Hausen made the first link between HPV and cervical cancer, postulating his hypothesis in the late 1970s and discovering the HPV DNA in the human genome in the 1980s. He was recognized for this work with Nobel Prize in Physiology and Medicine in 2008.
 
 <mark style="background: #FFF3A3A6;">Illustrated Presentation: Nobel Prize in Physiology and Medicine 2008.</mark>
