@@ -88,6 +88,8 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
+  - mkdocs-nav-weight:
+      section_renamed: true
   - meta-descriptions
   - git-revision-date-localized:
       type: date
