@@ -48,38 +48,3 @@ We welcome users to share a link to our project on their personal Websites and t
 ## Law & Jurisdiction
 This Website has been created and is hosted in the State of New York. Use of this Website and the application of all terms and conditions shall be governed exclusively by the laws of the State of New York. You expressly agree that any dispute arising out of or relating to your use of the Website and/or its content or materials shall be subject to the exclusive jurisdiction of the state and federal courts of the State of New York.
 
-# List of Videos and Media
-1. Singh, V. Sept 17, 2012. Extracellular Matrix. New York Times Channel. (4:23 min) Link
-2. Slide Show. Chaddha, R. July 7, 2007. A Tale of Two Mice. NOVA PBS Link
-3. Maclean’s. Mackenzee Wittke:The Girl Who Never Ages. Link
-4. Rosenbaum, J. Nov 4, 2013. The Long War on Cancer: From Nixon to Now. Retro Report.org (12:52min). Link
-5. Benjamin, R. Feb 5, 2015. From park bench to lab bench. What kind of future are we designing? TEDxBaltimore. YouTube.(21:25 min) Link
-6. Goodwin, M. 2011.Whose Values and Principles in a New Biopolitics. Tarrytown Meetings. YouTube. (10:48 min) Link
-7. Slide Show (49 slides): McLaughlin, T. May 31, 2010. An Epitaph, At Last. SoVaNow.com. Link
-8. Sparkman, S. 2013. The HeLa Cell Genome Published, Causes Privacy Controversy. Newsy/Dailymotion.Link
-9. Picht, M. Aug 7, 2013. Henrietta Lacks’ Family Finally Gets Say in Genome Research. Newsy/Dailymotion. (2:47 min) Link
-10. Ted TALK: Burke Harris, N. Feb 17, 2015. How Childhood Trauma Affects Health Across a Lifetime. Link
-11. Yeampierre, E. Session 2: Building the Relationship: Citizen and Community Engagement. NIH Workshop
-to Explore the Ethical, Legal, and Social Implications (ELSI) of Citizen Science. (10:31min) Link  
-12. Singh, V. Sept 24, 2012. Extracellular Matrix. New York Times Video Science. Link  
-13. Johnson, G. 2011. Rapid Visual Inventory & Comparison of Complex 3D Structures. YouTube. Science. Link
-14. EuroStemCell. Cell Culture. (6 min) Link
-15. Bohan, M.2005. Checkpoints and Cell Cycle Control. Harvard Molecular and Cell Biology-HHMI OutreachProgram. Link  
-16. University of Michigan. 2005. Stem Cells Explained: An Interactive Tutorial. Link
-17. Learning Resource: Learn Genetics. Epigenetics. University of Utah. Link  
-18. Providing Researchers with WI-38 Cell Cultures. Web of Stories. Link  
-19. Duguid, C. 2010. Video: Cell Culture. EuroStemCell. (Producer Kate Doherty) (6 minutes). Link  
-20. Covert, C., Chamany, K. and Elie, C. 2013. They Called Me HeLa Educational Slide Show. Stem Cells Across the Curriculum/Media. Link  
-21. Animation: HPV OncoTect Animation.mp4. YouTube. Animation Link  
-22. Thirteen/Education Broadcasting Corporation (Producer.) June 25, 2010. Religion & Ethics Weekly: Informed Consent and Medical Research. (7:22 min) Link  
-23. Film: Curtis, A. 1997. Modern Times: The Way of All Flesh. Aired on BBC. Modern Times Series, Editor Stephen Lambert. (52 minutes). Link  
-24. World Stem Cell Summit Video Conference Session: Sugarman, J., Zoloth, L. & Hempel, C. October 4 2010. FullviewMedia. The Immortal Life of Henrietta Lacks - lessons for stem cell researchers and patients. World Stem Cell Summit, Pasadena, CA. (Time Stamp 38:00min- 50:00min) Link
-25. March 15, 2010. The Immortal Henrietta Lacks. CBSnews. Link
-26. Snyderman, N. March 15, 2013. A Mother’s Fight. Rock Center with Brian Williams. NBCnews. (Producers, Amy Schmitz and Stacey Naggier).(7:56min) Link
-27. NBC. March 15, 2013. Man Starts Organization to Compensate Bone Marrow Donors. Rock Center with Brian Williams. NBC.com. (1:39’) Link
-28. Slide Show: BET July is African-American Bone Marrow Awareness Month. Bet.com. Link
-29. Podcast: Rogers, A. June 2011 Podcast. Breast Milk. Storyboard. (19:41min) Link
-30. Givens, A. & Glorioso C. Noc 15, 2013. I-Team: Donated Breast Milk Is Often Sold for Profit. (4:09min) Link
-31. Podcast: Feb 16, 2016. Remembering Anarcha, Lucy, and Betsey: The Mothers of Modern Gynecology. HiddenBrain. NPR. (26 min) Link
-32. Film: HBO and Harpo Films. April 2017. The Immortal Life of Henrietta Lacks Trailer. Director, George Wolfe. Link
-
