@@ -36,7 +36,7 @@ theme:
         - navigation.tracking
         - navigation.indexes
         - navigation.top
-        #- navigation.tabs
+        - navigation.tabs
         #- navigation.tabs.sticky
         - navigation.expand
         - navigation.footer
@@ -145,13 +145,3 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
-
-# Page Tree
-#nav:
-#    - Frontmatter: index.md
-#    - Introduction to Primer: Introduction to Primer/Introduction to Primer.md
-#    - Primer:
-#      - 1. How Have Human Tissues and Cells Been Used for Biomedical Research?:
-#          - Primer/1. How Have Human Tissues and Cells Been Used for Biomedical Research?/1. How Have Human Tissues and Cells Been Used for Biomedical Research?.md
-#      - 2. What Is A Cell? What is Cell Research?:
-#          - Primer/2. What Is A Cell? What is Cell Research?/2. What Is A Cell? What is Cell Research?.md
