@@ -107,7 +107,7 @@ plugins:
   #- tags:
       #tags_file: tags.md
   - encryptcontent:
-      global_password: '${{ secrets.GLOBAL_PW }}'
+      global_password: 'test123'
       title_prefix: '🔐'
       summary: 'This content is protected'
       placeholder: 'Provide password here and press ENTER'
