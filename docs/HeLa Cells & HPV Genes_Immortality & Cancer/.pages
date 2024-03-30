@@ -4,4 +4,3 @@ nav:
     - ...
     - 10. "Altruistic" Donations for Profit or Unintended Use?.md
 title: HeLa Cells & HPV Genes | Immortality & Cancer
-global_password: ${{ secrets.GLOBAL_PW }}
