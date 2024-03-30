@@ -107,8 +107,7 @@ plugins:
   #- tags:
       #tags_file: tags.md
   - encryptcontent:
-      password_inventory:
-        _global: !ENV GLOBAL_PW
+      global_password: !ENV GLOBAL_PW
       title_prefix: '🔐'
       summary: 'This content is protected'
       placeholder: 'Provide password and press ENTER'
