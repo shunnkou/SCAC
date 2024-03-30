@@ -107,9 +107,11 @@ plugins:
   #- tags:
       #tags_file: tags.md
   - encryptcontent:
+      password_inventory:
+        _global: !ENV GLOBAL_PW
       title_prefix: '🔐'
-      summary: 'Private page'
-      placeholder: 'Password'
+      summary: 'This content is protected'
+      placeholder: 'Provide password and press ENTER'
       decryption_failure_message: 'Invalid password'
       encryption_info_message: "You don't have access to this page."
       search_index: 'encrypted'
