@@ -107,10 +107,9 @@ plugins:
   #- tags:
       #tags_file: tags.md
   - encryptcontent:
-      global_password: ${{ secrets.GLOBAL_PW }}
       title_prefix: '🔐'
       summary: 'This content is protected'
-      placeholder: 'Provide password and press ENTER'
+      placeholder: 'Provide password here and press ENTER'
       decryption_failure_message: 'Invalid password'
       encryption_info_message: "You don't have access to this page."
       search_index: 'encrypted'
