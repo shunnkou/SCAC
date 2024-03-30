@@ -1,7 +1,7 @@
 site_name: Stem Cells Across The Curriculum
  # Change this to your site name
 site_description: A cool description of your site
-site_url: https://stemcellcurriculum.github.io/SCAC/ # Change this to your site URL
+site_url: https://stemcellcurriculum.github.io/backgrounder/ # Change this to your site URL
 
 theme:
     name: 'material'
