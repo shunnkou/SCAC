@@ -22,4 +22,3 @@ jobs:
     uses: ObsidianPublisher/actions/.github/workflows/deploy.yml@main
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-      GL_PW: ${{ secrets.GLOBAL_PW }}
