@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 750px;
+                 height: 750px;
+                 background-color: transparent;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "1. How Have Human Tissues and Cells Been Used for Biomedical Research?", "label": "1. How Have Human Tissues and Cells Been Used for Biomedical Research?", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "extracellular-matrix.png", "label": "extracellular-matrix.png", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Timeline10.png", "label": "Timeline10.png", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "7. What Policies Are in Place for Regulating Research with Human Subjects?", "label": "7. What Policies Are in Place for Regulating Research with Human Subjects?", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "1_Section 2", "label": "1_Section 2", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "index", "label": "index", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "5. HeLa Cultures and Contamination_The Intersection of Biology, Race, Class and Gender", "label": "5. HeLa Cultures and Contamination_The Intersection of Biology, Race, Class and Gender", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "8. Altruistic Donor, Paid Research Subject, or Savvy Negotiator", "label": "8. Altruistic Donor, Paid Research Subject, or Savvy Negotiator", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "6. Cervical Cancer, HPV, and TERC_Prevalence and Diagnostics", "label": "6. Cervical Cancer, HPV, and TERC_Prevalence and Diagnostics", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "9. Paying Up Front for Human Biospecimens_Bone Marrow, Eggs, and DNA", "label": "9. Paying Up Front for Human Biospecimens_Bone Marrow, Eggs, and DNA", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "3. How Does Tissue Culture Technology Contribute to Steam Cell Research (SCR)?", "label": "3. How Does Tissue Culture Technology Contribute to Steam Cell Research (SCR)?", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "2. What Is A Cell? What is Cell Research?", "label": "2. What Is A Cell? What is Cell Research?", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "10. \"Altruistic\" Donations for Profit or Unintended Use?", "label": "10. \"Altruistic\" Donations for Profit or Unintended Use?", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "4. The First Human Cell Lines_HeLa and WI-38", "label": "4. The First Human Cell Lines_HeLa and WI-38", "shape": "dot", "size": 10}, {"color": "#97c2fc", "font": {"color": "#7c7c7c"}, "id": "Introduction to Primer", "label": "Introduction to Primer", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"from": "1. How Have Human Tissues and Cells Been Used for Biomedical Research?", "to": "extracellular-matrix.png", "width": 1}, {"from": "1. How Have Human Tissues and Cells Been Used for Biomedical Research?", "to": "Timeline10.png", "width": 1}, {"from": "1. How Have Human Tissues and Cells Been Used for Biomedical Research?", "to": "7. What Policies Are in Place for Regulating Research with Human Subjects?", "width": 1}, {"from": "1. How Have Human Tissues and Cells Been Used for Biomedical Research?", "to": "1_Section 2", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
