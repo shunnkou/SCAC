@@ -1,6 +1,6 @@
 site_name: Stem Cells Across The Curriculum
  # Change this to your site name
-site_description: A cool description of your site # Description
+site_description: Backgrounder for Stem Cells Across the Curriculum # Description
 site_url: https://stemcellcurriculum.github.io/backgrounder/ # Change this to your site URL
 
 theme:
@@ -13,8 +13,6 @@ theme:
         code: Ubuntu Mono
     language: en
     palette:
-        sceme: default
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -32,6 +30,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
     features:
         - navigation.instant
         - navigation.tracking
