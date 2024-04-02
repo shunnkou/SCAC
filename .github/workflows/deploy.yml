@@ -18,26 +18,7 @@ permissions:
   id-token: write
 
 jobs:
-  build_and_deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-      - name: Build MkDocs site
-        run: mkdocs build
-      - name: Deploy to Github Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-  #deploy:
-  #  uses: ObsidianPublisher/actions/.github/workflows/deploy.yml@main
-  #  secrets:
-  #    GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+  deploy:
+    uses: ObsidianPublisher/actions/.github/workflows/deploy.yml@main
+    secrets:
+      GH_PAT: ${{ secrets.GITHUB_TOKEN }}
