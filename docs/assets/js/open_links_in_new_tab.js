@@ -1,7 +1,7 @@
 // Wait for the DOM content to be fully loaded before executing the script
 document.addEventListener('DOMContentLoaded', function() {
     // Select all anchor elements within paragraph elements inside an element with the class 'md-content__inner'
-    var paragraphLinks = document.querySelectorAll('.md-content__inner p a');
+    var paragraphLinks = document.querySelectorAll('mark a, p a');
     
     // Iterate over each selected link element
     paragraphLinks.forEach(function(link) {
