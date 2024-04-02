@@ -5,8 +5,8 @@ site_url: https://stemcellcurriculum.github.io/backgrounder/ # Change this to yo
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: #assets/meta/favicons.png
+    favicon: #assets/meta/favicons.png
     custom_dir: overrides
     font:
         text: sans serif
